@@ -23,15 +23,15 @@ This repository bundles symbols, footprints, and a compact database that Altium 
 
 ```
 FW-ALTIUM-LIB/
+  assets/                      # Images used in the README + docs
   components/                  # One JSON file per component
-  symbols/                     # *.SchLib symbol libraries (+ templates)
   footprints/                  # *.PcbLib footprint libraries (+ templates)
-  fw_lib.DbLib                 # Altium database library (points to the generated DB)
-  generate.py                  # Builds the DB from /components
-  create_component.py          # Guided component creator (+ AI description helper)
-  auto_description_prompt.txt
-  component_description_standards.md
-  requirements.txt
+  symbols/                     # *.SchLib symbol libraries (+ templates)
+  knowledge/                   # Shared prompt + description standards
+  create_component.py          
+  generate.py                  
+  fw_lib.DbLib                 
+  requirements.txt             
   README.md
 ```
 
