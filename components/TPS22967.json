@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "TPS22967",
+    "Footprint Path": "TPS22967.PcbLib",
+    "Library Ref": "TPS22967",
+    "Library Path": "TPS22967.Schlib",
+
+    "Name": "TPS22967",
+    "Value": "TPS22967",
+    "Description": "IC_loadswitch_4A_22mΩ_0.8V_5.5V"
+}

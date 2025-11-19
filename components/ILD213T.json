@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "8-SOIC_Vishay",
+    "Footprint Path": "8-SOIC_Vishay.PcbLib",
+    "Library Ref": "OPTO_2CHAN",
+    "Library Path": "OPTO_2CHAN.Schlib",
+
+    "Name": "ILD213T",
+    "Value": "ILD213T",
+    "Description": "IC_OPTOCOUPLER_2CHAN_4000Vrms"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "JST_S2B-PH-K-S(LF)(SN)",
+    "Footprint Path": "JST_S2B-PH-K-S(LF)(SN).PcbLib",
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.Schlib",
+
+    "Name": "S2B-PH-K-S(LF)(SN)",
+    "Value": "S2B-PH-K-S(LF)(SN)",
+    "Description": "CONN_2P_2mm_THT_RigthAngle_JST-PH"
+}

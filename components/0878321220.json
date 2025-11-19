@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "0878321220",
+    "Footprint Path": "0878321220.PcbLib",
+    "Library Ref": "CONN_12P",
+    "Library Path": "CONN_12P.Schlib",
+
+    "Name": "0878321220",
+    "Value": "0878321220",
+    "Description": "CONN_12P_2MM_MLX_IDC"
+}

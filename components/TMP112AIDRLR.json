@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "TMP112",
+    "Footprint Path": "TMP112.PcbLib",
+    "Library Ref": "TMP112",
+    "Library Path": "TMP112.Schlib",
+
+    "Name": "TMP112AIDRLR",
+    "Value": "TMP112AIDRLR",
+    "LCSC": "C28927",
+    "Description": "IC_TempSensor_SOT563_I2C"
+}

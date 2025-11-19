@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TVS",
+    "Library Path": "TVS.SchLib",
+    "Footprint Ref": "SMB",
+    "Footprint Path": "SMB.PcbLib",
+    "Name": "SM6TXXA ",
+    "Value": "SM6TXXA ",
+    "Description": "DIODE_TVS_XV_UNI_1CHAN_ST"
+}

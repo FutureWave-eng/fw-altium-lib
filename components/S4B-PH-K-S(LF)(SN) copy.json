@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FP-S4B-PH-K-S_LF_SN-MFG",
+    "Footprint Path": "FP-S4B-PH-K-S_LF_SN-MFG.PcbLib",
+    "Library Ref": "CONN_4P",
+    "Library Path": "CONN_4P.Schlib",
+
+    "Name": "S4B-PH-K-S(LF)(SN)",
+    "Value": "S4B-PH-K-S(LF)(SN)",
+    "Description": "CONN_4P_2mm_THT_RigthAngle_JST-PH"
+}

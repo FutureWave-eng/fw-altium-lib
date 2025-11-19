@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "ST_SOT23-6L",
+    "Footprint Path": "ST_SOT23-6L.PcbLib",
+    "Library Ref": "DIODES SOT-23-6",
+    "Library Path": "DIODES SOT-23-6.Schlib",
+
+    "Name": "USBLC6-2ier",
+    "Value": "USBLC6-2",
+    "Description": "DIODE_TVS_USB"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SOD323",
+    "Footprint Path": "SOD323.PcbLib",
+    "Library Ref": "Zener",
+    "Library Path": "Zener.Schlib",
+
+    "Name": "BZX384-G",
+    "Value": "Voltage?",
+    "Description": "ZENER_SOD323_0.7V_2-5mA_2.4-75V"
+}

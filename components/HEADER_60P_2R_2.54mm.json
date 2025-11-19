@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "pinheader_P60R2",
+    "Footprint Path": "pinheader_P60R2.PcbLib",
+    "Library Ref": "CONN_30P2R",
+    "Library Path": "CONN_30P2R.Schlib",
+
+    "Name": "HEADER_60P_2R_2.54mm",
+    "Value": "HEADER_60P_2R_2.54mm",
+    "Description": "CONN_HEADER_60PIN_2R_2.54mm"
+}

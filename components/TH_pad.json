@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "VIA_16AWG",
+    "Footprint Path": "VIA_16AWG.PcbLib",
+    "Library Ref": "TH_pad",
+    "Library Path": "TH_pad.Schlib",
+
+    "Name": "TH_pad_16awg",
+    "Value": "TH_pad_16awg",
+    "Description": "PAD_TH_16awg_1.4mm_2.5mm"
+}

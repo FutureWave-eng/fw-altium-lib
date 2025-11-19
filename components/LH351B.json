@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "LH351B",
+    "Footprint Path": "LH351B.PcbLib",
+    "Library Ref": "LED",
+    "Library Path": "LED.Schlib",
+
+    "Name": "SPHWH2L3D30ED4RNN3",
+    "Value": "SPHWH2L3D30ED4RNN3",
+    "Description": "LED_LH351B_White_NEUTRAL4000K_2.8V_350mA_1414_2W"
+}

@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "MCP2561",
+    "Footprint Path": "MCP2561.PcbLib",
+    "Library Ref": "MCP2561",
+    "Library Path": "MCP2561.Schlib",
+
+    "Name": "MCP2561T-ESN",
+    "Value": "MCP2561T-ESN",
+    "LCSC": "C87081",
+    "Description": "IC_CANTransceiver_8SOIC"
+}

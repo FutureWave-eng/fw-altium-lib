@@ -1,0 +1,9 @@
+{
+    "Library Ref": "VIB_MOTOR",
+    "Library Path": "VIB_MOTOR.SchLib",
+    "Footprint Ref": "VZ30C1T8460002L",
+    "Footprint Path": "VZ30C1T8460002L.PcbLib",
+    "Name": "VZ30C1T8460002L",
+    "Value": "VZ30C1T8460002L",
+    "Description": "MECH_VibrationMotor_15kRPM_0.39G"
+}

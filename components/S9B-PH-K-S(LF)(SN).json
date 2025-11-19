@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_9P",
+    "Library Path": "CONN_9P.SchLib",
+    "Footprint Ref": "FP-S9B-PH-K-S_LF_SN-MFG",
+    "Footprint Path": "FP-S9B-PH-K-S_LF_SN-MFG.PcbLib",
+
+    "Name": "S9B-PH-K-S(LF)(SN)",
+    "Value": "S9B-PH-K-S(LF)(SN)",
+    "Description": "CONN_9P_HORIZONTAL_THT_PH-JST"
+}

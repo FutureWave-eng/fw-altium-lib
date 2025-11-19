@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Zener",
+    "Library Path": "Zener.SchLib",
+    "Footprint Ref": "SOD123F",
+    "Footprint Path": "SOD123F.PcbLib",
+
+    "Name": "MBR340RL",
+    "Value": "MBR340RL"
+}

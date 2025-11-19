@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "FP-B2B-PH-SM4-TBT_LF_SN-MFG",
+    "Footprint Path": "FP-B2B-PH-SM4-TBT_LF_SN-MFG.PcbLib",
+
+    "Name": "B2BPHSM4TBLFSN",
+    "Value": "B2BPHSM4TBLFSN",
+    "Description": "CONN_2P_2mm_JST_TOPENTRY"
+}

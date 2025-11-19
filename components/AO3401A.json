@@ -1,0 +1,9 @@
+{
+    "Library Ref": "PMOS_S",
+    "Library Path": "PMOS_S.SchLib",
+    "Footprint Ref": "SOT95P240X115-3N",
+    "Footprint Path": "SOT95P240X115-3N.PcbLib",
+    "Name": "AO3401A",
+    "Value": "AO3401A",
+    "Description": "PMOS_30V_4A_85mR_SOT-23"
+}

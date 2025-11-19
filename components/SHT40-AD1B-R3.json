@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SHT40-AD1B-R3",
+    "Library Path": "SHT40-AD1B-R3.SchLib",
+    "Footprint Ref": "SHT40-AD1B-R3",
+    "Footprint Path": "SHT40-AD1B-R3.PcbLib",
+    "Name": "SHT40-AD1B-R3",
+    "Value": "SHT40-AD1B-R3",
+    "Description": "IC_TEMP&HUM_I2C_4-WDFN"
+}

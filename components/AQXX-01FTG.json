@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TVS",
+    "Library Path": "TVS.SchLib",
+    "Footprint Ref": "SOD323",
+    "Footprint Path": "SOD323.PcbLib",
+    "Name": "AQXX-01FTG",
+    "Value": "AQXX-01FTG",
+    "Description": "DIODE_TVS_XV_UNI_SOD323_littelfuse"
+}

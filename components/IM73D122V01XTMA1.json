@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MIC_PDM",
+    "Library Path": "MIC_PDM.SchLib",
+    "Footprint Ref": "PG-LLGA-5-3",
+    "Footprint Path": "PG-LLGA-5-3.PcbLib",
+    "Name": "IM73D122V01XTMA1",
+    "Value": "IM73D122V01XTMA1",
+    "Description": "SENS_MIC_PDM_SOLDERPAD_OMNI_-26dB"
+}

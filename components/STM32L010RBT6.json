@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32L010RBT6",
+    "Library Path": "STM32L010RBT6.SchLib",
+    "Footprint Ref": "ST_LQFP-64",
+    "Footprint Path": "ST_LQFP-64.PcbLib",
+    "Name": "STM32L010RBT6",
+    "Value": "STM32L010RBT6",
+    "Description": "IC_MCU_LQFP-64_32BIT_ARM-M0_32MHz"
+}

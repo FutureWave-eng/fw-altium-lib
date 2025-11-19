@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SWITCH_SPST_2PIN",
+    "Library Path": "SWITCH_SPST_2PIN.SchLib",
+    "Footprint Ref": "EVP-AKE31A",
+    "Footprint Path": "EVP-AKE31A.PcbLib",
+    "Name": "EVP-AKE31A",
+    "Value": "EVP-AKE31A",
+    "Description": "SW_TACT_SPST-NO_SMD-RA"
+}

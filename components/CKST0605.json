@@ -1,0 +1,9 @@
+{
+    "Library Ref": "IND",
+    "Library Path": "IND.SchLib",
+    "Footprint Ref": "CKST0605",
+    "Footprint Path": "CKST0605.PcbLib",
+
+    "Name": "CKST0605",
+    "Value": "CKST0605"
+}

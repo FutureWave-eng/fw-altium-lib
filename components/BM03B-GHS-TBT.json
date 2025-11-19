@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "BM03B-GHS-TBT",
+    "Footprint Path": "BM03B-GHS-TBT.PcbLib",
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.Schlib",
+
+    "Name": "BM03B-GHS-TBT",
+    "Value": "BM03B-GHS-TBT",
+    "LCSC": "C161691",
+    "Description": "CONN_3P_TOP_1.2mm"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "IND",
+    "Library Path": "IND.SchLib",
+    "Footprint Ref": "IND_0201",
+    "Footprint Path": "IND_0201.PcbLib",
+    "Name": "IND_0201",
+    "Value": "?",
+    "Description": "IND_0201"
+}

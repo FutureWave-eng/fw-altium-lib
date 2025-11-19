@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "Tracker_SoM",
+    "Footprint Path": "Tracker_SoM.PcbLib",
+    "Library Ref": "Tracker_SoM",
+    "Library Path": "Tracker_SoM.Schlib",
+
+    "Name": "Tracker_SoM",
+    "Value": "Tracker_SoM",
+    "Description": "SOM_TrackerSoM_Particle"
+}

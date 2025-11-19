@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TTP233D-HA6",
+    "Library Path": "TTP233D-HA6.SchLib",
+    "Footprint Ref": "DIODES SOT-23-6 W6",
+    "Footprint Path": "DIODES SOT-23-6 W6.PcbLib",
+
+    "Name": "TTP233D-HA6",
+    "Value": "TTP233D-HA6"
+}

@@ -1,0 +1,9 @@
+{
+    "Footprint Ref": "SOT95P240X115-3N",
+    "Footprint Path": "SOT95P240X115-3N.PcbLib",
+    "Library Ref": "NMOS",
+    "Library Path": "NMOS.SchLib",
+
+    "Name": "AO3402",
+    "Value": "AO3402"
+}

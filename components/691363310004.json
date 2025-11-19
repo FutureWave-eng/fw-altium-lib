@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_4P_mech",
+    "Library Path": "CONN_4P_mech.SchLib",
+    "Footprint Ref": "691363310004",
+    "Footprint Path": "691363310004.PcbLib",
+    "Name": "691363310004",
+    "Value": "691363310004",
+    "Description": "CONN_4P_TerminalBlock_Mech"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TP4056",
+    "Library Path": "TP4056.SchLib",
+    "Footprint Ref": "SOP127P600X175-9N",
+    "Footprint Path": "SOP127P600X175-9N.PcbLib",
+
+    "Name": "TP4056",
+    "Value": "TP4056"
+}

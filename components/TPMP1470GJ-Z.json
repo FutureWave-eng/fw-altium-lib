@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TPMP1470GJ-Z",
+    "Library Path": "TPMP1470GJ-Z.SchLib",
+    "Footprint Ref": "SOT23_6p_onsemi",
+    "Footprint Path": "SOT23_6p_onsemi.PcbLib",
+    "Name": "TPMP1470GJ-Z",
+    "Value": "TPMP1470GJ-Z",
+    "Description": "IC_DCDC_BUCK_3.5V~18V_2A"
+}

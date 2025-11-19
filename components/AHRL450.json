@@ -1,0 +1,9 @@
+{
+    "Library Ref": "PTC",
+    "Library Path": "PTC.SchLib",
+    "Footprint Ref": "AHRL450",
+    "Footprint Path": "AHRL450.PcbLib",
+    "Name": "AHRL450",
+    "Value": "AHRL450",
+    "Description": "F_4.5A_16V_THT_Radial_PTC"
+}

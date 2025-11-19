@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SM03B-GHS-TB",
+    "Footprint Path": "SM03B-GHS-TB.PcbLib",
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.Schlib",
+
+    "Name": "SM03B-GHS-TB",
+    "Value": "SM03B-GHS-TB",
+    "LCSC": "C514175",
+    "Description": "CONN_3P_SIDE_1.2mm"
+}

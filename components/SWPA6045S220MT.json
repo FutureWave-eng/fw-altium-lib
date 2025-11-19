@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SWPA6045S220MT",
+    "Footprint Path": "SWPA6045S220MT.PcbLib",
+    "Library Ref": "IND",
+    "Library Path": "IND.Schlib",
+
+    "Name": "SWPA6045S220MT",
+    "Value": "SWPA6045S220MT",
+    "LCSC":"C83454",
+    "Description": "IND_22uH+1.8A_SMD_WireWound"
+}

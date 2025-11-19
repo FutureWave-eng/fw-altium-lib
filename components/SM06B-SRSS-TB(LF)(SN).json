@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "JST-SM06B-SRSS-TB_V",
+    "Footprint Path": "JST-SM06B-SRSS-TB_V.PcbLib",
+    "Library Ref": "CONN_6P",
+    "Library Path": "CONN_6P.Schlib",
+
+    "Name": "SM06B-SRSS-TB(LF)(SN)",
+    "Value": "SM06B-SRSS-TB(LF)(SN)",
+    "Description": "CONN_6P_1mm_SIDE_SMD_JST-SH"
+}

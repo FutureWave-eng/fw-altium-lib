@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "BNLG10Y800MYB",
+    "Footprint Path": "BN_LG10Y800MYB.PcbLib",
+    "Library Ref": "NTC",
+    "Library Path": "NTC.Schlib",
+
+    "Name": "BN-LG10Y800MYB",
+    "Value": "BN-LG10Y800MYB",
+    "Description": "NTC_ICL_80ohm_1A_10mm"
+}

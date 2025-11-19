@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "B5B-PH-SM4-TB",
+    "Footprint Path": "B5B-PH-SM4-TB.PcbLib",
+    "Library Ref": "CONN_5P",
+    "Library Path": "CONN_5P.Schlib",
+
+    "Name": "B5B-PH-SM4-TB",
+    "Value": "B5B-PH-SM4-TB",
+    "Description": "CONN_5P_2mm_JST_TOPENTRY"
+}

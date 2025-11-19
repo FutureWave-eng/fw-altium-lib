@@ -1,0 +1,11 @@
+{
+    "Library Ref": "CONN_4P",
+    "Library Path": "CONN_4P.SchLib",
+    "Footprint Ref": "FPC_4P_1mm",
+    "Footprint Path": "FPC_4P_1mm.PcbLib",
+
+    "Name": "522710479",
+    "Value": "522710479",
+    "LCSC": "C505269",
+    "Description": "CONN_FPC_4P_1mm_SIDEENTRY_MOLEX"
+}

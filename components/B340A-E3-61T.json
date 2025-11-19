@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.SchLib",
+    "Footprint Ref": "FP-SMA-MFG",
+    "Footprint Path": "FP-SMA-MFG.PcbLib",
+    "Name": "B340A-E3-61T",
+    "Value": "B340A-E3-61T",
+    "Description": "DIODE_SHOTTKY_40V_3A"
+}

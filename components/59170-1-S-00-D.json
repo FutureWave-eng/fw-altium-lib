@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SWITCH_SPST_2PIN",
+    "Library Path": "SWITCH_SPST_2PIN.SchLib",
+    "Footprint Ref": "59170-1-S-00-D",
+    "Footprint Path": "59170-1-S-00-D.PcbLib",
+    "Name": "59170-1-S-00-D",
+    "Value": "59170-1-S-00-D",
+    "Description": "SW_SPST_REED_SMD"
+}

@@ -1,0 +1,9 @@
+{
+    "Footprint Ref": "CAP_1206",
+    "Footprint Path": "CAP_1206.PcbLib",
+    "Library Ref": "CAP",
+    "Library Path": "CAP.SchLib",
+
+    "Name": "CAP_1206",
+    "Value": "?"
+}

@@ -1,0 +1,10 @@
+{
+    "Library Ref": "BAT",
+    "Library Path": "BAT.SchLib",
+    "Footprint Ref": "3008TR",
+    "Footprint Path": "3008TR.PcbLib",
+    "Name": "3008TR",
+    "Value": "3008TR",
+    "LCSC": "C964845",
+    "Description": "BATT_CR2450_DL2450_LOW-PROFILE"
+}

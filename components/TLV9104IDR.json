@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TLV9104IDR",
+    "Library Path": "TLV9104IDR.SchLib",
+    "Footprint Ref": "SOIC-14",
+    "Footprint Path": "SOIC-14.PcbLib",
+    "Name": "TLV9104IDR",
+    "Value": "TLV9104IDR",
+    "Description": "IC_OPAMP_4CHAN_16V_14-SOIC"
+}

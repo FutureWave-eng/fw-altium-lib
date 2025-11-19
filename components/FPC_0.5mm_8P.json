@@ -1,0 +1,11 @@
+{
+    "Library Ref": "CONN_8P",
+    "Library Path": "CONN_8P.SchLib",
+    "Footprint Ref": "FPC_8P_0.5mm",
+    "Footprint Path": "FPC_8P_0.5mm.PcbLib",
+
+    "Name": "1734592-8",
+    "Value": "1734592-8",
+    "LCSC": "C262555",
+    "Description": "CONN_FPC_8P_0.5mm_SIDEENTRY"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "RJ45",
+    "Library Path": "RJ45.SchLib",
+    "Footprint Ref": "7499410213",
+    "Footprint Path": "7499410213.PcbLib",
+    "Name": "7499410213",
+    "Value": "7499410213",
+    "Description": "CONN_RJ45_LAN_Wurth"
+}

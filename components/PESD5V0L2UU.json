@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SOT23-3",
+    "Footprint Path": "SOT23-3.PcbLib",
+    "Library Ref": "TVS_DIODE_UNI_2CHAN",
+    "Library Path": "TVS_DIODE_UNI_2CHAN.Schlib",
+
+    "Name": "PESD5V0L2UU",
+    "Value": "PESD5V0L2UU",
+    "Description": "DIODE_TVS_5V_UNI_2CHAN"
+}

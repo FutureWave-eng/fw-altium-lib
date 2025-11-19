@@ -1,0 +1,10 @@
+{
+    "Library Ref": "XTAL_4P",
+    "Library Path": "XTAL_4P.SchLib",
+    "Footprint Ref": "WE_IQXC-42",
+    "Footprint Path": "WE_IQXC-42.PcbLib",
+    "Name": "830108178109",
+    "Value": "830108178109",
+    "LCSC": "C2965579",
+    "Description": "XTAL_IQXC-42_16MHz_10ppmm_8pF"
+}

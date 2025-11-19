@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "INFINEON SOIC-16 PG-DSO-16-11",
+    "Footprint Path": "INFINEON SOIC-16 PG-DSO-16-11.PcbLib",
+    "Library Ref": "TVS_8CHAN_UNI",
+    "Library Path": "TVS_8CHAN_UNI.Schlib",
+
+    "Name": "S1615-8",
+    "Value": "S1615-8",
+    "Description": "DIODE_TVS_15V_UNI_8CHAN"
+}

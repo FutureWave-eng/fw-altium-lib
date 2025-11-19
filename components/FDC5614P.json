@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SOT23_6p_onsemi",
+    "Footprint Path": "SOT23_6p_onsemi.PcbLib",
+    "Library Ref": "PMOS",
+    "Library Path": "PMOS.Schlib",
+
+    "Name": "FDC5614P",
+    "Value": "FDC5614P",
+    "LCSC": "C48167",
+    "Description": "PMOS_60V_3A_0.130R_SOT23-6"
+}

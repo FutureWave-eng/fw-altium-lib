@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CAP_EL",
+    "Library Path": "CAP_EL.SchLib",
+    "Footprint Ref": "CAP_EL_6.3_5.5",
+    "Footprint Path": "CAP_EL_6.3_5.5.PcbLib",
+    "Name": "865230643009",
+    "Value": "865230643009",
+    "Description": "CAP_EL_10uF_50V_AluElectroCap_Radial_SMD"
+}

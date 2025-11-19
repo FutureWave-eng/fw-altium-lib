@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TPS2051CDBV",
+    "Library Path": "TPS2051CDBV.SchLib",
+    "Footprint Ref": "TPS2051CDBV",
+    "Footprint Path": "TPS2051CDBV.PcbLib",
+    "Name": "TPS2051CDBV",
+    "Value": "TPS2051CDBV",
+    "Description": "IC_loadswitch_0.5A_5V_97mR_USB"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MAX4899AEETE+T",
+    "Library Path": "MAX4899AEETE+T.SchLib",
+    "Footprint Ref": "TQFN-16_AD",
+    "Footprint Path": "TQFN-16_AD.PcbLib",
+    "Name": "MAX4899AEETE+T",
+    "Value": "MAX4899AEETE+T",
+    "Description": "IC_MUX_DiffPair_4-1_AnalogDevices_TQFN"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "WSM-BL241-ADA-008",
+    "Library Path": "WSM-BL241-ADA-008.SchLib",
+    "Footprint Ref": "WSM-BL241-ADA-008",
+    "Footprint Path": "WSM-BL241-ADA-008.PcbLib",
+    "Name": "WSM-BL241-ADA-008",
+    "Value": "WSM-BL241-ADA-008",
+    "Description": "SOM_WSM-BL241-ADA-008_BT-BLE-nRF52832"
+}

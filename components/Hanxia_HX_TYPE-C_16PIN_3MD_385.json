@@ -1,0 +1,9 @@
+{
+    "Library Ref": "USB-C",
+    "Library Path": "USB-C.SchLib",
+    "Footprint Ref": "TYPE-C-SMD_HX-TYPE-C-16PIN",
+    "Footprint Path": "TYPE-C-SMD_HX-TYPE-C-16PIN.PcbLib",
+    "Name": "Hanxia_HX_TYPE-C_16PIN_3MD_385",
+    "Value": "Hanxia_HX_TYPE-C_16PIN_3MD_385",
+    "Description": "CONN_USB-C_FEMALE_PCB_EDGE_HORIZONTAL_16pin_3A"
+}

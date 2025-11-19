@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TSOP36XXX",
+    "Library Path": "TSOP36XXX.SchLib",
+    "Footprint Ref": "TSOP36XXXTR",
+    "Footprint Path": "TSOP36XXXTR.PcbLib",
+    "Name": "TSOP36XXXTR",
+    "Value": "TSOP36XXXTR",
+    "Description": "IC_IR-RECEIVER_REMOTE_SMD_SIDEWAYS_45m"
+}

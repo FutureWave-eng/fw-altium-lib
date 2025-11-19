@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "VIA_22AWG",
+    "Footprint Path": "VIA_22AWG.PcbLib",
+    "Library Ref": "TH_pad",
+    "Library Path": "TH_pad.Schlib",
+
+    "Name": "TH_pad_22awg",
+    "Value": "TH_pad_22awg",
+    "Description": "PAD_TH_22awg_1mm_1.5mm"
+}

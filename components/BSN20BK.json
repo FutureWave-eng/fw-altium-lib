@@ -1,0 +1,9 @@
+{
+    "Library Ref": "NMOS",
+    "Library Path": "NMOS.SchLib",
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Name": "BSN20BK",
+    "Value": "BSN20BK",
+    "Description": "NMOS_60V_265mA"
+}

@@ -1,0 +1,42 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\WouterVanRompaey\OneDrive - FUTUREWAVE SRL\Documents\Futurewave\futurelab\futurelab-ai-pin-mic-hw\fw-altium-lib\fw_lib_generated.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=2
+RemoveMode=1
+UpdateMode=1
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=fw_lib_generated.xlsx
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Sheet1$
+[Table1]
+SchemaName=
+TableName=Sheet1$
+Enabled=True
+UserWhere=0
+UserWhereText=[Part Number] = '{Part Number}'
+[FieldMap1]
+Options=FieldName=Sheet1$.Description|TableNameOnly=Sheet1$|FieldNameOnly=Description|FieldType=1|ParameterName=Description|VisibleOnAdd=False|AddMode=2|RemoveMode=1|UpdateMode=1
+[FieldMap2]
+Options=FieldName=Sheet1$.Footprint Ref|TableNameOnly=Sheet1$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Sheet1$.Footprint Path|TableNameOnly=Sheet1$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Sheet1$.Library Ref|TableNameOnly=Sheet1$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Sheet1$.Library Path|TableNameOnly=Sheet1$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Sheet1$.Value|TableNameOnly=Sheet1$|FieldNameOnly=Value|FieldType=1|ParameterName=Value|VisibleOnAdd=True|AddMode=2|RemoveMode=1|UpdateMode=1
+[FieldMap7]
+Options=FieldName=Sheet1$.Name|TableNameOnly=Sheet1$|FieldNameOnly=Name|FieldType=0|ParameterName=Name|VisibleOnAdd=False|AddMode=2|RemoveMode=0|UpdateMode=2

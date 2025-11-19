@@ -1,0 +1,9 @@
+{
+    "Library Ref": "220AMA16R",
+    "Library Path": "220AMA16R.SchLib",
+    "Footprint Ref": "220AMA16R",
+    "Footprint Path": "220AMA16R.PcbLib",
+    "Name": "220AMA16R",
+    "Value": "220AMA16R",
+    "Description": "SW_RotatrySW_16POS_HEX"
+}

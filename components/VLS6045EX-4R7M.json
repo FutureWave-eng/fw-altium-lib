@@ -1,0 +1,9 @@
+{
+    "Library Ref": "IND",
+    "Library Path": "IND.SchLib",
+    "Footprint Ref": "VLS6045EX-4R7M",
+    "Footprint Path": "VLS6045EX-4R7M.PcbLib",
+    "Name": "VLS6045EX-4R7M",
+    "Value": "VLS6045EX-4R7M",
+    "Description": "IND_6045_4.7uH_4.2A_35mOhm"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32F446RET6",
+    "Library Path": "STM32F446RET6.SchLib",
+    "Footprint Ref": "QFP50P1200X1200X160-64N",
+    "Footprint Path": "QFP50P1200X1200X160-64N.PcbLib",
+    "Name": "STM32F446RET6",
+    "Value": "STM32F446RET6",
+    "Description": "IC_MCU_LQFP-64_32BIT_ARM-M4_180MHz_512KB_FLASH_128KB_RAM"
+}

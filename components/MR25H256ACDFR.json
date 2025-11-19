@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MR25H256ACDFR",
+    "Library Path": "MR25H256ACDFR.SchLib",
+    "Footprint Ref": "8-DFN",
+    "Footprint Path": "8-DFN.PcbLib",
+    "Name": "MR25H256ACDFR",
+    "Value": "MR25H256ACDFR",
+    "Description": "IC_NRAM_SPI_256Kb"
+}

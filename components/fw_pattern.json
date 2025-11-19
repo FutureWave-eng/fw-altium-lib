@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "fw_pattern",
+    "Footprint Path": "fw_pattern.PcbLib",
+    "Library Ref": "fw_pattern",
+    "Library Path": "fw_pattern.Schlib",
+
+    "Name": "fw_pattern",
+    "Value": "test",
+    "Description": "tes_fw_pattern"
+}

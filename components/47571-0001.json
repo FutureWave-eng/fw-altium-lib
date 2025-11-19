@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MICRO_SD",
+    "Library Path": "MICRO_SD.SchLib",
+    "Footprint Ref": "47571-0001",
+    "Footprint Path": "47571-0001.PcbLib",
+    "Name": "47571-0001",
+    "Value": "47571-0001",
+    "Description": "CONN_MICRO-SD_BOARDEDGE"
+}

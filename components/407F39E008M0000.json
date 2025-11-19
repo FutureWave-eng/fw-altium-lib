@@ -1,0 +1,9 @@
+{
+    "Library Ref": "XTAL_4P",
+    "Library Path": "XTAL_4P.SchLib",
+    "Footprint Ref": "407F39E008M0000",
+    "Footprint Path": "407F39E008M0000.PcbLib",
+    "Name": "407F39E008M0000",
+    "Value": "407F39E008M0000",
+    "Description": "XTAL_4-SMD_8MHz_30ppm_20pF_60Ohms"
+}

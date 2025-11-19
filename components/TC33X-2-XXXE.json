@@ -1,0 +1,10 @@
+{
+    "Library Ref": "TC33X",
+    "Library Path": "TC33X.SchLib",
+    "Footprint Ref": "TC33X",
+    "Footprint Path": "TC33X.PcbLib",
+    "Name": "TC33X-2-XXXE",
+    "Value": "?",
+    "LCSC": "C719177",
+    "Description": "RESV_SMD_XXXkOhm_150mW_+-25%"
+}

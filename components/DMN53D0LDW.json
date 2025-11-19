@@ -1,0 +1,9 @@
+{
+    "Library Ref": "DMN53D0LDW",
+    "Library Path": "DMN53D0LDW.SchLib",
+    "Footprint Ref": "SOT_363_DiodesInc",
+    "Footprint Path": "SOT_363_DiodesInc.PcbLib",
+    "Name": "DMN53D0LDW",
+    "Value": "DMN53D0LDW",
+    "Description": "NMOS_2CHAN_50V_0.36A"
+}

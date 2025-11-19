@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "ST_SO8",
+    "Footprint Path": "ST_SO8.PcbLib",
+    "Library Ref": "TVS_6CHAN_BI",
+    "Library Path": "TVS_6CHAN_BI.Schlib",
+
+    "Name": "ESDA25B1",
+    "Value": "ESDA25B1",
+    "Description": "DIODE_TVS_6CHAN_25V_BI"
+}

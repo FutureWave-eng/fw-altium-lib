@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "AMPHENOL_10144042-06011LF",
+    "Footprint Path": "AMPHENOL_10144042-06011LF.PcbLib",
+    "Library Ref": "CONN_6P",
+    "Library Path": "CONN_6P.Schlib",
+
+    "Name": "10144042-06011LF",
+    "Value": "10144042-06011LF",
+    "Description": "CONN_6P_TOP_SMD_Minitek"
+}

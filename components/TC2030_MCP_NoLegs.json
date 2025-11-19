@@ -1,0 +1,10 @@
+{
+    "Library Ref": "TC2030",
+    "Library Path": "TC2030.SchLib",
+    "Footprint Ref": "TC2030-MCP-NoLegs",
+    "Footprint Path": "TC2030-MCP-NoLegs.PcbLib",
+
+    "Name": "TC2030-NoLegs",
+    "Value": "TC2030-NoLegs",
+    "Description": "CONN_6P_ARM_TAGCONNECT"
+}

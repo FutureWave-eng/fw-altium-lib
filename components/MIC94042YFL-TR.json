@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FDFN_Microchip",
+    "Footprint Path": "FDFN_Microchip.PcbLib",
+    "Library Ref": "load_switch",
+    "Library Path": "load_switch.Schlib",
+
+    "Name": "MIC94042YFL-TR",
+    "Value": "MIC94042YFL-TR",
+    "Description": "IC_loadswitch_3A_28mΩ_1.7V_5.5V"
+}

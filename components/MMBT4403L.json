@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Library Ref": "PNP",
+    "Library Path": "PNP.Schlib",
+
+    "Name": "MMBT4403L",
+    "Value": "MMBT4403L",
+    "LCSC": "C78864",
+    "Description": "BJT_PNP_SOT32-3_40V_600mA"
+}

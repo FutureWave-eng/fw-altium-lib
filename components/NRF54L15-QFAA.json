@@ -1,0 +1,9 @@
+{
+    "Library Ref": "NRF54LXX",
+    "Library Path": "NRF54LXX.SchLib",
+    "Footprint Ref": "NRF54LXX-QFAA",
+    "Footprint Path": "NRF54LXX-QFAA.PcbLib",
+    "Name": "NRF54L15-QFAA",
+    "Value": "NRF54L15-QFAA",
+    "Description": "MCU_QFN48_BLE_31GPIO_1524KB_256KB"
+}

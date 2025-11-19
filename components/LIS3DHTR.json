@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LIS3DHTR",
+    "Library Path": "LIS3DHTR.SchLib",
+    "Footprint Ref": "LIS3DHTR",
+    "Footprint Path": "LIS3DHTR.PcbLib",
+    "Name": "LIS3DHTR",
+    "Value": "LIS3DHTR",
+    "Description": "IC_ACCELERO_XYZ_+-2g~+-16g_I2C_SPI_16LGA"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "pinheader_P20R2",
+    "Footprint Path": "pinheader_P20R2.PcbLib",
+    "Library Ref": "CONN_20P_2R",
+    "Library Path": "CONN_20P_2R.Schlib",
+
+    "Name": "TSW-110-07-G-D",
+    "Value": "TSW-110-07-G-D",
+    "Description": "CONN_PINHEADER_2.54mm_20P_2R_male"
+}

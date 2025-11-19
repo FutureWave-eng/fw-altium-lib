@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SN74LV4T125PWR",
+    "Library Path": "SN74LV4T125PWR.SchLib",
+    "Footprint Ref": "TSSOP_14_TI",
+    "Footprint Path": "TSSOP_14_TI.PcbLib",
+    "Name": "SN74LV4T125PWR",
+    "Value": "SN74LV4T125PWR",
+    "Description": "IC_LevelShifter_4CHAN_TI"
+}

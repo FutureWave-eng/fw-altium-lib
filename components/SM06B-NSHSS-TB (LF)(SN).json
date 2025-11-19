@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SM06B-NSHSS-TB (LF)(SN)",
+    "Footprint Path": "SM06B-NSHSS-TB (LF)(SN).PcbLib",
+    "Library Ref": "CONN_6P",
+    "Library Path": "CONN_6P.Schlib",
+
+    "Name": "SM06B-NSHSS-TB (LF)(SN)",
+    "Value": "SM06B-NSHSS-TB (LF)(SN)",
+    "Description": "CONN_6P_1mm_TOP_SMD_JST-NSH_LOCKING"
+}

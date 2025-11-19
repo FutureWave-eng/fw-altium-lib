@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LM809M3-4.63-NOPB",
+    "Library Path": "LM809M3-4.63-NOPB.SchLib",
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Name": "LM809M3-4.63-NOPB",
+    "Value": "LM809M3-4.63-NOPB",
+    "Description": "IC_VoltageSupervisor_5V_OpenDrain_SOT-23"
+}

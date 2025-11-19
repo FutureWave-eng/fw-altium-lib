@@ -1,0 +1,8 @@
+fw_lib_generated.xlsx
+fw_lib.xlsx
+fw-altium-lib.json
+build/
+generate
+dist/
+History/
+**/History

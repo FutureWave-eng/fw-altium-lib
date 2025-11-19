@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "RES_0805",
+    "Footprint Path": "RES_0805.PcbLib",
+    "Library Ref": "RES",
+    "Library Path": "RES.Schlib",
+
+    "Name": "RL1220S-R30-F",
+    "Value": "RL1220S-R30-F",
+    "Description": "300mOhms_±1%_1/3W_0805"
+}

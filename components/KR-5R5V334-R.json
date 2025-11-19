@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CAP_EL",
+    "Library Path": "CAP_EL.SchLib",
+    "Footprint Ref": "KR-5R5V334-R",
+    "Footprint Path": "KR-5R5V334-R.PcbLib",
+    "Name": "KR-5R5V334-R",
+    "Value": "KR-5R5V334-R",
+    "Description": "CAP_RadialLead_0.33F_5V5_50R"
+}

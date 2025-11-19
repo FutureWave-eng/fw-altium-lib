@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "IDC_10PINS",
+    "Footprint Path": "IDC_10PINS.PcbLib",
+    "Library Ref": "CONN_10P_2R",
+    "Library Path": "CONN_10P_2R.Schlib",
+
+    "Name": "3020-10-0300-00",
+    "Value": "3020-10-0300-00",
+    "Description": "CONN_10P_2R_2.54MM__IDC"
+}

@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SOIC8_TI",
+    "Footprint Path": "SOIC8_TI.PcbLib",
+    "Library Ref": "SN65HVD232DR",
+    "Library Path": "SN65HVD232DR.Schlib",
+
+    "Name": "SN65HVD232DR",
+    "Value": "SN65HVD232DR",
+    "LCSC": "C30530",
+    "Description": "IC_CANTransceiver_3V3_8SOIC_TI"
+}

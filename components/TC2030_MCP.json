@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TC2030",
+    "Library Path": "TC2030.SchLib",
+    "Footprint Ref": "TC2030-MCP",
+    "Footprint Path": "TC2030-MCP.PcbLib",
+
+    "Name": "TC2030",
+    "Value": "TC2030"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_6P",
+    "Library Path": "CONN_6P.SchLib",
+    "Footprint Ref": "FPC_6P_0.50mm",
+    "Footprint Path": "FPC_6P_0.50mm.PcbLib",
+    "Name": "687106182122",
+    "Value": "687106182122",
+    "Description": "CONN_6P_0.50mm_FFC_Horizontal_ZIF_WE"
+}

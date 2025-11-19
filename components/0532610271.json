@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "0532610271",
+    "Footprint Path": "0532610271.PcbLib",
+    "Name": "0532610271",
+    "Value": "0532610271",
+    "Description": "CONN_2P_1R2P_1.25mm_Molex_Rect_SMD"
+}

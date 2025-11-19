@@ -1,0 +1,9 @@
+{
+    "Library Ref": "74LVC04APW",
+    "Library Path": "74LVC04APW.SchLib",
+    "Footprint Ref": "74LVC04APW",
+    "Footprint Path": "74LVC04APW.PcbLib",
+    "Name": "74LVC04APW",
+    "Value": "74LVC04APW",
+    "Description": "IC_INV_6CHAN_TI"
+}

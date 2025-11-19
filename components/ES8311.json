@@ -1,0 +1,9 @@
+{
+    "Library Ref": "ES8311",
+    "Library Path": "ES8311.SchLib",
+    "Footprint Ref": "Everest_WQFN_20_EP",
+    "Footprint Path": "Everest_WQFN_20_EP.PcbLib",
+    "Name": "ES8311",
+    "Value": "ES8311",
+    "Description": "IC_amplifier_I2S_WQFN20"
+}

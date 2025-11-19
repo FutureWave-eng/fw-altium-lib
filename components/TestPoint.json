@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "TP_1mm",
+    "Footprint Path": "TP_1mm.PcbLib",
+    "Library Ref": "TP",
+    "Library Path": "TP.Schlib",
+
+    "Name": "TP_1mm",
+    "Value": "TP_1mm",
+    "Description": "TP_1mm"
+}

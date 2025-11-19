@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SCREW",
+    "Library Path": "SCREW.SchLib",
+    "Footprint Ref": "SCREW_M2.5X5mm",
+    "Footprint Path": "SCREW_M2.5X5mm.PcbLib",
+    "Name": "screw_M2.5X5mm",
+    "Value": "?",
+    "Description": "MECH_screw_M2.5X5mm"
+}

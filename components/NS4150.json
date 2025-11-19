@@ -1,0 +1,9 @@
+{
+    "Library Ref": "NS4150",
+    "Library Path": "NS4150.SchLib",
+    "Footprint Ref": "MSOP-8",
+    "Footprint Path": "MSOP-8.PcbLib",
+    "Name": "NS4150",
+    "Value": "NS4150",
+    "Description": "IC_Amplifier_ClassD_MSOP8"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "AP2139AK",
+    "Library Path": "AP2139AK.SchLib",
+    "Footprint Ref": "ANALOG SOT-23-5 RJ-5",
+    "Footprint Path": "ANALOG SOT-23-5 RJ-5.PcbLib",
+
+    "Name": "AP2139AK-2.8TRG1",
+    "Value": "AP2139AK-2.8TRG1"
+}

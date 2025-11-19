@@ -1,0 +1,9 @@
+{
+    "Library Ref": "ANT",
+    "Library Path": "ANT.SchLib",
+    "Footprint Ref": "ANT_1206",
+    "Footprint Path": "ANT_1206.PcbLib",
+    "Name": "2450AT18A",
+    "Value": "2450AT18A",
+    "Description": "ANT_CHIP_SMD_2.4GHz_0.5dBi"
+}

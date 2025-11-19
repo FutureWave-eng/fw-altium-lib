@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SM08B-NSHSS-TB (LF)(SN)",
+    "Footprint Path": "SM08B-NSHSS-TB (LF)(SN).PcbLib",
+    "Library Ref": "CONN_8P",
+    "Library Path": "CONN_8P.Schlib",
+
+    "Name": "SM08B-NSHSS-TB (LF)(SN)",
+    "Value": "SM08B-NSHSS-TB (LF)(SN)",
+    "Description": "CONN_8P_1mm_SIDE_SMD_JST-NSH_LOCKING"
+}

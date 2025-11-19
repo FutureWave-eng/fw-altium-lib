@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "LITTELFUSE_1206_PTC",
+    "Footprint Path": "LITTELFUSE_1206_PTC.PcbLib",
+    "Library Ref": "PTC",
+    "Library Path": "PTC.Schlib",
+
+    "Name": "1206L150THWR",
+    "Value": "1206L150THWR",
+    "Description": "F_3.5A_6V_1206_PTC_"
+}

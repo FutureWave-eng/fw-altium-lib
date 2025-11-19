@@ -1,0 +1,10 @@
+{
+    "Library Ref": "WS2812B",
+    "Library Path": "WS2812B.SchLib",
+    "Footprint Ref": "SMD_5050",
+    "Footprint Path": "SMD_5050.PcbLib",
+    "Name": "WS2812B",
+    "Value": "?",
+    "LCSC": "C114586",
+    "Description": "DIODE_RGB_1WIRE_5050"
+}

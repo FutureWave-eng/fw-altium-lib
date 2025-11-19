@@ -1,0 +1,10 @@
+{
+    "Library Ref": "SW_DPDT",
+    "Library Path": "SW_DPDT.SchLib",
+    "Footprint Ref": "JS202011SCQN",
+    "Footprint Path": "JS202011SCQN.PcbLib",
+    "Name": "JS202011SCQN",
+    "Value": "JS202011SCQN",
+    "Description": "SW_DPDT_300mA_6V_slide",
+    "LCSC": "C221666"
+}

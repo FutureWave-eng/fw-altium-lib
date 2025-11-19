@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CAP_EL",
+    "Library Path": "CAP_EL.SchLib",
+    "Footprint Ref": "TPSB476K010R0500",
+    "Footprint Path": "TPSB476K010R0500.PcbLib",
+    "Name": "TPSB476K010R0500",
+    "Value": "TPSB476K010R0500",
+    "Description": "CAP_SolidElectrolytic_47uF_10V"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "LCW78",
+    "Footprint Path": "LCW78.PcbLib",
+    "Library Ref": "DCDC_MODULE",
+    "Library Path": "DCDC_MODULE.Schlib",
+
+    "Name": "LCW78_0.5",
+    "Value": "Input voltage range?",
+    "Description": "IC_DCDC_0.5A"
+}

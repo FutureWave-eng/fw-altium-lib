@@ -1,0 +1,9 @@
+{
+    "Library Ref": "PMOS",
+    "Library Path": "PMOS.SchLib",
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Name": "NTS2101PT1G",
+    "Value": "NTS2101PT1G",
+    "Description": "PMOS_8V_1.4A_0.117R_SOT323"
+}

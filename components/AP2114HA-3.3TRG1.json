@@ -1,0 +1,11 @@
+{
+    "Library Ref": "AP2114HA",
+    "Library Path": "AP2114HA.SchLib",
+    "Footprint Ref": "SOT-223-3_DiodesInc",
+    "Footprint Path": "SOT-223-3_DiodesInc.PcbLib",
+
+    "Name": "AP2114HA-3.3TRG1",
+    "Value": "AP2114HA-3.3TRG1",
+    "Description": "IC_LDO_3V3_6V_1A"
+
+}

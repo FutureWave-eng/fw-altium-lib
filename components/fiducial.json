@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "fiducial",
+    "Footprint Path": "fiducial.PcbLib",
+    "Library Ref": "fiducial",
+    "Library Path": "fiducial.Schlib",
+
+    "Name": "fiducial",
+    "Value": "fiducial",
+    "Description": "FID_PAGE_1mm_2mm"
+}

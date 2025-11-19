@@ -1,0 +1,9 @@
+{
+    "Library Ref": "ST485BDR",
+    "Library Path": "ST485BDR.SchLib",
+    "Footprint Ref": "ST_SO8",
+    "Footprint Path": "ST_SO8.PcbLib",
+    "Name": "ST485BDR",
+    "Value": "ST485BDR",
+    "Description": "IC_transceiver_RS485_RS422_5V"
+}

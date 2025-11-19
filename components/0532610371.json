@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.SchLib",
+    "Footprint Ref": "0532610371",
+    "Footprint Path": "0532610371.PcbLib",
+    "Name": "0532610371",
+    "Value": "0532610371",
+    "Description": "CONN_3P_1R3P_Molex_Rect_SMD"
+}

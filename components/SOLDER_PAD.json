@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "PAD_1.2MM_3MM",
+    "Footprint Path": "PAD_1.2MM_3MM.PcbLib",
+    "Library Ref": "SOLDER_PAD",
+    "Library Path": "SOLDER_PAD.Schlib",
+
+    "Name": "SOLDER_PAD",
+    "Value": "SOLDER_PAD",
+    "Description": "PAD_1.2MM_3MM"
+}

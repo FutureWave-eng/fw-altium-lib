@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TS3USB3031RMGR",
+    "Library Path": "TS3USB3031RMGR.SchLib",
+    "Footprint Ref": "12_WQFN_TI",
+    "Footprint Path": "12_WQFN_TI.PcbLib",
+    "Name": "TS3USB3031RMGR",
+    "Value": "TS3USB3031RMGR",
+    "Description": "IC_MUX_USB2.0_3-1_TI_WQFN"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky_BAS",
+    "Library Path": "Schottky_BAS.SchLib",
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Name": "BAS70-7-F",
+    "Value": "BAS70-7-F",
+    "Description": "DIODE_SCHOTTKY_70V_70mA"
+}

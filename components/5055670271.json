@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "CONN_5055670271",
+    "Footprint Path": "CONN_5055670271.PcbLib",
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.Schlib",
+
+    "Name": "5055670271",
+    "Value": "5055670271",
+    "Description": "CONN_2P_1.25MM_RightAngle_MOLEX"
+}

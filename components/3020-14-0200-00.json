@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "IDC_14PINS_SIDEENTRY_THT",
+    "Footprint Path": "IDC_14PINS_SIDEENTRY_THT.PcbLib",
+    "Library Ref": "CONN_14P_2R",
+    "Library Path": "CONN_14P_2R.Schlib",
+
+    "Name": "3020-14-0200-00",
+    "Value": "3020-14-0200-00",
+    "Description": "CONN_14P_2R_2.54MM_SIDEENTRY_THT_IDC"
+}

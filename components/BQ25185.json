@@ -1,0 +1,9 @@
+{
+    "Library Ref": "BQ25185",
+    "Library Path": "BQ25185.SchLib",
+    "Footprint Ref": "TI_10WSON",
+    "Footprint Path": "TI_10WSON.PcbLib",
+    "Name": "BQ25185",
+    "Value": "BQ25185",
+    "Description": "IC_CHRGR_Li-1S_1A_Linear_10WSON"
+}

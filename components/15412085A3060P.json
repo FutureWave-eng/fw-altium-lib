@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LED",
+    "Library Path": "LED.SchLib",
+    "Footprint Ref": "LED_1206",
+    "Footprint Path": "LED_1206.PcbLib",
+    "Name": "15412085A3060P",
+    "Value": "15412085A3060P",
+    "Description": "LED_1206_IR__1.4V"
+}

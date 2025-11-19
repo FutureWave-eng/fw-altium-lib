@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "BUZZER-30MM_PTH",
+    "Footprint Path": "BUZZER-30MM_PTH.PcbLib",
+    "Library Ref": "PIEZO_BUZZER",
+    "Library Path": "PIEZO_BUZZER.Schlib",
+
+    "Name": "668-1204-ND",
+    "Value": "668-1204-ND",
+    "Description": "BZ_piezo_THT_3V"
+}

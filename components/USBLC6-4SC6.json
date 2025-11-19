@@ -1,0 +1,9 @@
+{
+    "Library Ref": "USBLC6-4SC6",
+    "Library Path": "USBLC6-4SC6.SchLib",
+    "Footprint Ref": "USBLC6-4SC6",
+    "Footprint Path": "USBLC6-4SC6.PcbLib",
+    "Name": "USBLC6-4SC6",
+    "Value": "USBLC6-4SC6",
+    "Description": "DIODES TVS USB-C data + CC lines SOT-23-6"
+}

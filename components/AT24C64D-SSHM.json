@@ -1,0 +1,9 @@
+{
+    "Library Ref": "AT24C64D-SSHM",
+    "Library Path": "AT24C64D-SSHM.SchLib",
+    "Footprint Ref": "SOIC8_TI",
+    "Footprint Path": "SOIC8_TI.PcbLib",
+    "Name": "AT24C64D-SSHM",
+    "Value": "AT24C64D-SSHM",
+    "Description": "IC_EEPROM_64Kb"
+}

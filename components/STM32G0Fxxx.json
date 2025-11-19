@@ -1,0 +1,10 @@
+{
+    "Description": "MCU 32-Bit STM32G031 ARM Cortex-M0+ RISC 32KB Flash 1.7V to 3.6V 20-Pin TSSOP Tube",
+    "Footprint Ref": "STM32G031F6P6",
+    "Footprint Path": "STM32G031F6P6.PcbLib",
+    "Library Ref": "STM32G031F6P6",
+    "Library Path": "STM32G031F6P6.SchLib",
+
+    "Name": "STM32G0Fxxx",
+    "Value": "STM32G0Fxxx"
+}

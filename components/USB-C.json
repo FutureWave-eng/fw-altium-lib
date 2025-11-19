@@ -1,0 +1,10 @@
+{
+    "Library Ref": "USB-C",
+    "Library Path": "USB-C.Schlib",
+    "Footprint Ref": "JAE_DX07S016JA3R1500",
+    "Footprint Path": "JAE_DX07S016JA3R1500.PcbLib",
+
+    "Name": "DX07S016JA3R1500",
+    "Value": "DX07S016JA3R1500",
+    "Description": "CONN_USB-C_2.0"
+}

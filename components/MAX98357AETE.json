@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MAX98357AETE",
+    "Library Path": "MAX98357AETE.SchLib",
+    "Footprint Ref": "16TQFN_AD",
+    "Footprint Path": "16TQFN_AD.PcbLib",
+    "Name": "MAX98357AETE",
+    "Value": "MAX98357AETE",
+    "Description": "IC_amplifier_classD_16TQFN_mono"
+}

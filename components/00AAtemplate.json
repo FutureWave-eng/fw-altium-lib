@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "name_of_the_foorprint",
+    "Footprint Path": "name_of_the_footprint_file.PcbLib",
+    "Library Ref": "name_of_the_symbol",
+    "Library Path": "name_of_the_symbol_file.Schlib",
+
+    "Name": "Manufacturer_part_number, this_is_the_unique_identifier",
+    "Value": "?_for_generics, MPN_for_non_generics",
+    "Description": "COMPTYPE_DETAILS"
+}

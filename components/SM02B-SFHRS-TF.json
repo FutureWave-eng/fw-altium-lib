@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SM02B-SFHRS-TF",
+    "Footprint Path": "SM02B-SFHRS-TF.PcbLib",
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.Schlib",
+
+    "Name": "SM02B-SFHRS-TF",
+    "Value": "SM02B-SFHRS-TF",
+    "Description": "CONN_2P_1.8mm_SIDE_SMD_JST-SFHRS"
+}

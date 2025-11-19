@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MKDVXGIL-AST",
+    "Library Path": "MKDVXGIL-AST.SchLib",
+    "Footprint Ref": "MK_LGA-8(6x8)",
+    "Footprint Path": "MK_LGA-8(6x8).PcbLib",
+    "Name": "MKDV8GIL-AST",
+    "Value": "MKDV8GIL-AST",
+    "Description": "IC_NAND_LGA8-6x8_8Gbit_50MHz_3V3"
+}

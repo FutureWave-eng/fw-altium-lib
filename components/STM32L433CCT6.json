@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32L433CCT6",
+    "Library Path": "STM32L433CCT6.SchLib",
+    "Footprint Ref": "ST_LQFP-48",
+    "Footprint Path": "ST_LQFP-48.PcbLib",
+    "Name": "STM32L433CCT6",
+    "Value": "STM32L433CCT6",
+    "Description": "IC_MCU_LQFP-48_32BIT_ARM-M4_80MHz_256KB_FLASH_64KB_RAM"
+}

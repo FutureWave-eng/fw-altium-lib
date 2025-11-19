@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "ECASD6",
+    "Footprint Path": "ECASD6.PcbLib",
+    "Library Ref": "CAP_POL",
+    "Library Path": "CAP_POL.SchLib",
+
+    "Name": "ECASD6",
+    "Value": "?",
+    "Description": "CAP_AluPolymer_2917"
+}

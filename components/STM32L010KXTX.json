@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32L010KXTX",
+    "Library Path": "STM32L010KXTX.SchLib",
+    "Footprint Ref": "ST_LQFP-32",
+    "Footprint Path": "ST_LQFP-32.PcbLib",
+    "Name": "STM32L010KXTX",
+    "Value": "?",
+    "Description": "IC_MCU_LQFP-32_32BIT_ARM-M0_32MHz"
+}

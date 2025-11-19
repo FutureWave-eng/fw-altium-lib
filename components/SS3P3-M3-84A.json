@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.SchLib",
+    "Footprint Ref": "SS3P3-M3-84A",
+    "Footprint Path": "SS3P3-M3-84A.PcbLib",
+    "Name": "SS3P3-M3-84A",
+    "Value": "SS3P3-M3-84A",
+    "Description": "DIODE_SHOTTKY_30V_3A_0.55V"
+}

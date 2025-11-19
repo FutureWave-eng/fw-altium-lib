@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "LM3485MM_NOPB",
+    "Footprint Path": "LM3485MM_NOPB.PcbLib",
+    "Library Ref": "LM3485MM_NOPB",
+    "Library Path": "LM3485MM_NOPB.Schlib",
+
+    "Name": "LM3485MM/NOPB",
+    "Value": "LM3485MM/NOPB",
+    "Description": "IC_DCDC_BUCK"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "pinheader_P2R1_SMD",
+    "Footprint Path": "pinheader_P2R1_SMD.PcbLib",
+    "Name": "HEADER_2P_1R_2.54mm_SMD",
+    "Value": "?",
+    "Description": "HEADER_2P_1R_2.54mm_SMD"
+}

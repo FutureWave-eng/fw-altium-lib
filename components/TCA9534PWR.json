@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TCA9534PWR",
+    "Library Path": "TCA9534PWR.SchLib",
+    "Footprint Ref": "TSSOP-16",
+    "Footprint Path": "TSSOP-16.PcbLib",
+    "Name": "TCA9534PWR",
+    "Value": "TCA9534PWR",
+    "Description": "IC_IOExpander_8bit_I2C_TI"
+}

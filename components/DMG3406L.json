@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "SOT95P240X115-3N",
+    "Footprint Path": "SOT95P240X115-3N.PcbLib",
+    "Library Ref": "NMOS",
+    "Library Path": "NMOS.SchLib",
+
+    "Name": "DMG3406L",
+    "Value": "DMG3406L",
+    "Description": "NMOS_SOT23_3A_30V"
+}

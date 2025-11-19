@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "B02B-JWPF-SK-R",
+    "Footprint Path": "B02B-JWPF-SK-R.PcbLib",
+    "Name": "B02B-JWPF-SK-R",
+    "Value": "B02B-JWPF-SK-R",
+    "Description": "CONN_2P_2mm_JST_TOPENTRY"
+}

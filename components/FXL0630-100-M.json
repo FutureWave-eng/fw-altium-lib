@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "IND_SMD_6.6x7mm",
+    "Footprint Path": "IND_SMD_6.6x7mm.PcbLib",
+    "Library Ref": "IND",
+    "Library Path": "IND.Schlib",
+
+    "Name": "FXL0630-100-M",
+    "Value": "FXL0630-100-M",
+    "LCSC":"C167223",
+    "Description": "IND_10uH_4.5A_SMD"
+}

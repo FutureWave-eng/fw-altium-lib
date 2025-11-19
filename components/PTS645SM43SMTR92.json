@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "PTS645SM43SMTR92",
+    "Footprint Path": "PTS645SM43SMTR92.PcbLib",
+    "Library Ref": "SWITCH_SPST_4PIN",
+    "Library Path": "SWITCH_SPST_4PIN.Schlib",
+
+    "Name": "PTS645SM43SMTR92 ",
+    "Value": "PTS645SM43SMTR92",
+    "Description": "SW_SPST"
+}

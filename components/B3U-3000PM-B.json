@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SWITCH_SPST_2PIN",
+    "Library Path": "SWITCH_SPST_2PIN.SchLib",
+    "Footprint Ref": "B3U-3000PM-B",
+    "Footprint Path": "B3U-3000PM-B.PcbLib",
+    "Name": "B3U-3000PM-B",
+    "Value": "B3U-3000PM-B",
+    "Description": "SW_SPST_2PIN_SMD_RIGHTANGLE_NO"
+}

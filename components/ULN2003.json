@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "ST_SO16",
+    "Footprint Path": "ST_SO16.PcbLib",
+    "Library Ref": "ULN200x",
+    "Library Path": "ULN200x.Schlib",
+
+    "Name": "ULN2003",
+    "Value": "ULN2003",
+    "Description": "IC_PWRRELAY_SO16_7NPN"
+}

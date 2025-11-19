@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P_mech",
+    "Library Path": "CONN_2P_mech.SchLib",
+    "Footprint Ref": "691363310002",
+    "Footprint Path": "691363310002.PcbLib",
+    "Name": "691363310002",
+    "Value": "691363310002",
+    "Description": "CONN_2P_TerminalBlock_Mech"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FUSE_1206_SMD",
+    "Footprint Path": "FUSE_1206_SMD.PcbLib",
+    "Library Ref": "Fuse",
+    "Library Path": "Fuse.Schlib",
+
+    "Name": "C1Q",
+    "Value": "?",
+    "Description": "F_?A_63VDC_1206"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "VCNL36826S",
+    "Library Path": "VCNL36826S.SchLib",
+    "Footprint Ref": "VCNL36826S",
+    "Footprint Path": "VCNL36826S.PcbLib",
+    "Name": "VCNL36826S",
+    "Value": "VCNL36826S",
+    "Description": "IC_SENS_PROX_200mm_SMD"
+}

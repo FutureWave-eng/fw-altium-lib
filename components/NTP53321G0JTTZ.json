@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "TSSOP-16",
+    "Footprint Path": "TSSOP-16.PcbLib",
+    "Library Ref": "NTP53321G0JTTZ",
+    "Library Path": "NTP53321G0JTTZ.Schlib",
+
+    "Name": "NTP53321G0JTTZ",
+    "Value": "NTP53321G0JTTZ",
+    "Description": "IC_NFC_TSSOP-16_NTAG5LINK"
+}

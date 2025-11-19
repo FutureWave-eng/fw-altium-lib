@@ -1,0 +1,10 @@
+{
+    "Library Ref": "Schottky_SOT23-3",
+    "Library Path": "Schottky_SOT23-3.SchLib",
+    "Footprint Ref": "ONSC-SOT-23",
+    "Footprint Path": "ONSC-SOT-23.PcbLib",
+
+    "Name": "MBD301G",
+    "Value": "MBD301G",
+    "Description": "DIODE_Schottky_30V_200mA"
+}

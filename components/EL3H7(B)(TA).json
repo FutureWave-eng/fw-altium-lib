@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "EL3H7",
+    "Footprint Path": "EL3H7.PcbLib",
+    "Library Ref": "OPTOISOLATOR",
+    "Library Path": "OPTOISOLATOR.Schlib",
+
+    "Name": "EL3H7(B)(TA)",
+    "Value": "EL3H7(B)(TA)",
+    "Description": "IC_OPTOISOLATOR_4SSOP"
+}

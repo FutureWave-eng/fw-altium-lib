@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MC-306_32_7680K-A0_ROHS",
+    "Library Path": "MC-306_32_7680K-A0_ROHS.SchLib",
+    "Footprint Ref": "MC-306_32_7680K-A0_ROHS",
+    "Footprint Path": "MC-306_32_7680K-A0_ROHS.PcbLib",
+    "Name": "MC-306_32K7680-A0_ROHS",
+    "Value": "MC-306_32K7680-A0_ROHS",
+    "Description": "XTAL_4-SMD_32K768Hz_20ppm_12p5F"
+}

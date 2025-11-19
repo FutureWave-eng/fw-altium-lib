@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "CMT-8504-100-SMT-TR",
+    "Footprint Path": "CMT-8504-100-SMT-TR.PcbLib",
+    "Library Ref": "magnetic_buzzer",
+    "Library Path": "magnetic_buzzer.Schlib",
+
+    "Name": "CMT-8504-100-SMT-TR",
+    "Value": "CMT-8504-100-SMT-TR",
+    "Description": "BUZZER_MAGNETIC_5V_100dB_8.5X8.5MM_150mA_4kHz__SMD"
+}

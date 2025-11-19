@@ -1,0 +1,9 @@
+{
+    "Library Ref": "XTAL_4P",
+    "Library Path": "XTAL_4P.SchLib",
+    "Footprint Ref": "SMD3225",
+    "Footprint Path": "SMD3225.PcbLib",
+    "Name": "HD7B008000R01",
+    "Value": "HD7B008000R01",
+    "Description": "XTAL_4p-SMD3225_8MHz_30ppm_20pF_60Ohms"
+}

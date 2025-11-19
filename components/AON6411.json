@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "AON6411", 
+    "Footprint Path": "AON6411.PcbLib",
+    "Library Ref": "AON6411",
+    "Library Path": "AON6411.Schlib",
+
+    "Name": "AON6411",
+    "Value": "AON6411",
+    "Description": "PMOS_20V_47A/85A_7.3W_8DFN"
+}

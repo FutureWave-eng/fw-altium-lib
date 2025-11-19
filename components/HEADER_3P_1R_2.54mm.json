@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.SchLib",
+    "Footprint Ref": "pinheader_P3R1_TH",
+    "Footprint Path": "pinheader_P3R1_TH.PcbLib",
+    "Name": "HEADER_3P_1R_2.54mm",
+    "Value": "?",
+    "Description": "HEADER_3P_1R_2.54mm_THT"
+}

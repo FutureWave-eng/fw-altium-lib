@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "IDC_14PINS",
+    "Footprint Path": "IDC_14PINS.PcbLib",
+    "Library Ref": "CONN_14P_2R",
+    "Library Path": "CONN_14P_2R.Schlib",
+
+    "Name": "3020-14-0300-00",
+    "Value": "3020-14-0300-00",
+    "Description": "CONN_14P_2R_2.54MM__IDC"
+}

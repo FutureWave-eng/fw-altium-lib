@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "MCP23017T",
+    "Footprint Path": "MCP23017T.PcbLib",
+    "Library Ref": "MCP23017T",
+    "Library Path": "MCP23017T.Schlib",
+
+    "Name": "MCP23017T",
+    "Value": "MCP23017T",
+    "Description": "IC_IOEXPANDER_28SOIC_I2C_16Chan_1.7MHz"
+}

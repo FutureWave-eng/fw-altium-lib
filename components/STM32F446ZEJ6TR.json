@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32F446ZEJ6TR",
+    "Library Path": "STM32F446ZEJ6TR.SchLib",
+    "Footprint Ref": "STM32F446ZEJ6TR",
+    "Footprint Path": "STM32F446ZEJ6TR.PcbLib",
+    "Name": "STM32F446ZEJ6TR",
+    "Value": "STM32F446ZEJ6TR",
+    "Description": "MCU_32Bit_144UFBGA_180MHz_512KB_10x10"
+}

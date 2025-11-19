@@ -1,0 +1,9 @@
+{
+    "Library Ref": "BD48XXX",
+    "Library Path": "BD48XXX.SchLib",
+    "Footprint Ref": "SSOP5_Rohm",
+    "Footprint Path": "SSOP5_Rohm.PcbLib",
+    "Name": "BD48XXX_series",
+    "Value": "?",
+    "Description": "IC_VoltageSupervisor_2.3V~3.9V_OpenDrain_SSOP5"
+}

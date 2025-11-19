@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SM2S-IMX",
+    "Library Path": "SM2S-IMX.SchLib",
+    "Footprint Ref": "SMARC",
+    "Footprint Path": "SMARC.PcbLib",
+    "Name": "SM2S-IMX",
+    "Value": "?",
+    "Description": "SOM_SMARC-SM2S-IMX"
+}

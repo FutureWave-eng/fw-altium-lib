@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "25TLV470M10X10.5",
+    "Footprint Path": "25TLV470M10X10.5.PcbLib",
+    "Library Ref": "CAP_EL",
+    "Library Path": "CAP_EL.Schlib",
+
+    "Name": "25TLV470M10X10.5",
+    "Value": "25TLV470M10X10.5",
+    "Description": "CAP_EL_470µF_25V_AluElectroCap_Radial_SMD_5000Hrs@105°C"
+}

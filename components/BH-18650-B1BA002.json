@@ -1,0 +1,9 @@
+{
+    "Library Ref": "BAT",
+    "Library Path": "BAT.SchLib",
+    "Footprint Ref": "FP-1042P-MFG",
+    "Footprint Path": "FP-1042P-MFG.PcbLib",
+
+    "Name": "BH-18650-B1BA002",
+    "Value": "BH-18650-B1BA002"
+}

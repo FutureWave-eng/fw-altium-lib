@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "MP-2016-1100-65-80",
+    "Footprint Path": "MP-2016-1100-65-80.PcbLib",
+    "Library Ref": "LED",
+    "Library Path": "LED.Schlib",
+
+    "Name": "MP-2016-1100-65-80",
+    "Value": "?MP-2016-1100-65-80",
+    "Description": "LED_2016_White_6500K_3V_60mA"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "bridge_rectifier_schottky",
+    "Library Path": "bridge_rectifier_schottky.SchLib",
+    "Footprint Ref": "TO-269AA",
+    "Footprint Path": "TO-269AA.PcbLib",
+    "Name": "CDBHD240-G",
+    "Value": "CDBHD240-G",
+    "Description": "IC_BridgeRectifier_Schottky_0.5V_40V_SMD_"
+}

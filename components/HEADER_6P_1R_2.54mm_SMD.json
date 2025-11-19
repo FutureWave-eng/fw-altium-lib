@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_6P",
+    "Library Path": "CONN_6P.SchLib",
+    "Footprint Ref": "pinheader_P6R1_SMD",
+    "Footprint Path": "pinheader_P6R1_SMD.PcbLib",
+    "Name": "HEADER_6P_1R_2.54mm_SMD",
+    "Value": "?",
+    "Description": "HEADER_6P_1R_2.54mm_SMD"
+}

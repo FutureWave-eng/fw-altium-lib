@@ -1,0 +1,9 @@
+{
+    "Footprint Ref": "RES_0805",
+    "Footprint Path": "RES_0805.PcbLib",
+    "Library Ref": "RES",
+    "Library Path": "RES.SchLib",
+
+    "Name": "RES_0805",
+    "Value": "?"
+}

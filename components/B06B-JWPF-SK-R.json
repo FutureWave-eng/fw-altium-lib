@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_6P_2R_2",
+    "Library Path": "CONN_6P_2R_2.SchLib",
+    "Footprint Ref": "B06B-JWPF-SK-R",
+    "Footprint Path": "B06B-JWPF-SK-R.PcbLib",
+    "Name": "B06B-JWPF-SK-R",
+    "Value": "B06B-JWPF-SK-R",
+    "Description": "CONN_6P_2mm_JST_TOPENTRY"
+}

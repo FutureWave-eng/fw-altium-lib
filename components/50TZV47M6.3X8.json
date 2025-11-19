@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "CAP_EL_6.3_8",
+    "Footprint Path": "CAP_EL_6.3_8.PcbLib",
+    "Library Ref": "CAP_POL",
+    "Library Path": "CAP_POL.Schlib",
+
+    "Name": "50TZV47M6.3X8",
+    "Value": "50TZV47M6.3X8",
+    "LCSC": "C88734",
+    "Description": "CAP_EL_47µF_50V_AluElectroCap_Radial_SMD"
+}

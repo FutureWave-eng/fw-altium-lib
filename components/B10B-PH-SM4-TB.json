@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FP-B10B-PH-SM4-TB_LF_SN-MFG",
+    "Footprint Path": "FP-B10B-PH-SM4-TB_LF_SN-MFG.PcbLib",
+    "Library Ref": "CONN_10P",
+    "Library Path": "CONN_10P.Schlib",
+
+    "Name": "B10B-PH-SM4-TB(LF)(SN)",
+    "Value": "B10B-PH-SM4-TB(LF)(SN)",
+    "Description": "CONN_10P_2mm_JST_TOPENTRY"
+}

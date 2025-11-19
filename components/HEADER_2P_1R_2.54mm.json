@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "pinheader_P2R1",
+    "Footprint Path": "pinheader_P2R1.PcbLib",
+    "Name": "HEADER_2P_1R_2.54mm",
+    "Value": "HEADER_2P_1R_2.54mm",
+    "Description": "CONN_PINHEADER_2.54mm_2P_1R"
+}

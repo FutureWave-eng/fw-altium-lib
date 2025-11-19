@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "pinheader_P8R1",
+    "Footprint Path": "pinheader_P8R1.PcbLib",
+    "Library Ref": "CONN_8P",
+    "Library Path": "CONN_8P.Schlib",
+
+    "Name": "TSW-108-07-G-S",
+    "Value": "TSW-108-07-G-S",
+    "Description": "CONN_PINHEADER_2.54mm_8P_1R_male"
+}

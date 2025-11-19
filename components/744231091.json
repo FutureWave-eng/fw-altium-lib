@@ -1,0 +1,9 @@
+{
+    "Library Ref": "COMMON_MODE_CHOKE",
+    "Library Path": "COMMON_MODE_CHOKE.SchLib",
+    "Footprint Ref": "744231091",
+    "Footprint Path": "744231091.PcbLib",
+    "Name": "744231091",
+    "Value": "744231091",
+    "Description": "CHOKE_0.131uH_370mA_50V_Ethernet"
+}

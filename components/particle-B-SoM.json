@@ -1,0 +1,9 @@
+{
+    "Library Ref": "B-SOM",
+    "Library Path": "B-SOM.SchLib",
+    "Footprint Ref": "PARTICLE_B_SOM_M2",
+    "Footprint Path": "PARTICLE_B_SOM_M2.PcbLib",
+    "Name": "particle-B-SoM",
+    "Value": "particle-B-SoM",
+    "Description": "SOM_Particle_BSOM_M2"
+}

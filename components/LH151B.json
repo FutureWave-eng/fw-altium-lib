@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "LH151B",
+    "Footprint Path": "LH151B.PcbLib",
+    "Library Ref": "LED",
+    "Library Path": "LED.Schlib",
+
+    "Name": "LH151B",
+    "Value": "LH151B",
+    "Description": "LED_LH151B_White_Warm2700K_2.9V_0606_2W"
+}

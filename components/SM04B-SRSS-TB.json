@@ -1,0 +1,9 @@
+{
+    "Library Ref": "SM04B-SRSS-TB(LF)(SN)",
+    "Library Path": "SM04B-SRSS-TB(LF)(SN).SchLib",
+    "Footprint Ref": "JST_SM04B-SRSS-TB(LF)(SN)",
+    "Footprint Path": "JST_SM04B-SRSS-TB(LF)(SN).PcbLib",
+    "Name": "SM04B-SRSS-TB",
+    "Value": "SM04B-SRSS-TB",
+    "Description": "CONN_4P_1.0mm_SIDE_SMD_JST_MINI"
+}

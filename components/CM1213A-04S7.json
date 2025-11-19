@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CM1213A-04S7",
+    "Library Path": "CM1213A-04S7.SchLib",
+    "Footprint Ref": "SC-88-6",
+    "Footprint Path": "SC-88-6.PcbLib",
+    "Name": "CM1213A-04S7",
+    "Value": "CM1213A-04S7",
+    "Description": "TVS_SC-88-6_10V_1A_Ethernet"
+}

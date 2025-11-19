@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LED",
+    "Library Path": "LED.SchLib",
+    "Footprint Ref": "LED_0603",
+    "Footprint Path": "LED_0603.PcbLib",
+
+    "Name": "LED_0603",
+    "Value": "Color?"
+}

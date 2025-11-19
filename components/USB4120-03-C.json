@@ -1,0 +1,9 @@
+{
+    "Library Ref": "USB-C-3",
+    "Library Path": "USB-C-3.SchLib",
+    "Footprint Ref": "USB4120-03-C",
+    "Footprint Path": "USB4120-03-C.PcbLib",
+    "Name": "USB4120-03-C",
+    "Value": "USB4120-03-C",
+    "Description": "CONN_USB-C_16PIN_TOPENTRY"
+}

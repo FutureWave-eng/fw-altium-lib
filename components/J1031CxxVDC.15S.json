@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "J103",
+    "Footprint Path": "J103.PcbLib",
+    "Library Ref": "RELAY_SPDT",
+    "Library Path": "RELAY_SPDT.Schlib",
+
+    "Name": "J1031CxxVDC.15S",
+    "Value": "Coil voltage?",
+    "Description": "SW_SPDT_2A"
+}

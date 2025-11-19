@@ -1,0 +1,9 @@
+{
+    "Library Ref": "AP2281",
+    "Library Path": "AP2281.SchLib",
+    "Footprint Ref": "DIODES SOT-23-6 W6",
+    "Footprint Path": "DIODES SOT-23-6 W6.PcbLib",
+    "Name": "AP2281",
+    "Value": "?",
+    "Description": "IC_LoadSwitch_2A_1.5V~6V_80mR"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "AP63205",
+    "Library Path": "AP63205.SchLib",
+    "Footprint Ref": "SOT23_6p_onsemi",
+    "Footprint Path": "SOT23_6p_onsemi.PcbLib",
+    "Name": "AP63205",
+    "Value": "AP63205",
+    "Description": "IC_DCDC_BUCK_3.8V~32V_5V_2A"
+}

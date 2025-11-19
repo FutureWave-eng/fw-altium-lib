@@ -1,0 +1,9 @@
+{
+    "Library Ref": "COMMON_MODE_CHOKE",
+    "Library Path": "COMMON_MODE_CHOKE.SchLib",
+    "Footprint Ref": "744272251",
+    "Footprint Path": "744272251.PcbLib",
+    "Name": "744272251",
+    "Value": "744272251",
+    "Description": "CHOKE_250uH_2000mA_80V_power"
+}

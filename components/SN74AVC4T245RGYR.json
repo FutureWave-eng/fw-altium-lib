@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "16VQFN_TI",
+    "Footprint Path": "16VQFN_TI.PcbLib",
+    "Library Ref": "SN74AVC4T245RGYR",
+    "Library Path": "SN74AVC4T245RGYR.Schlib",
+
+    "Name": "SN74AVC4T245RGYR",
+    "Value": "SN74AVC4T245RGYR",
+    "Description": "IC_VoltageTranslator_UART_1V2_3V6"
+}

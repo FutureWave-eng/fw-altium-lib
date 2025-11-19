@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FP-SMA-MFG",
+    "Footprint Path": "FP-SMA-MFG.PcbLib",
+    "Library Ref": "TVS",
+    "Library Path": "TVS.Schlib",
+
+    "Name": "SMAJ60A-13-F",
+    "Value": "SMAJ60A-13-F",
+    "Description": "DIODE_TVS_60V_UNI_1CHAN"
+}    

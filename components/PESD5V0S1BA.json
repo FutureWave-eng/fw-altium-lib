@@ -1,0 +1,9 @@
+{
+    "Library Ref": "PESD5V0S1BA",
+    "Library Path": "PESD5V0S1BA.SchLib",
+    "Footprint Ref": "FP-SOD323-CA-IPC_A",
+    "Footprint Path": "FP-SOD323-CA-IPC_A.PcbLib",
+
+    "Name": "PESD5V0S1BA",
+    "Value": "PESD5V0S1BA"
+}

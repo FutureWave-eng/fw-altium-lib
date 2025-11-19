@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "HX711",
+    "Footprint Path": "HX711.PcbLib",
+    "Library Ref": "HX711",
+    "Library Path": "HX711.Schlib",
+
+    "Name": "HX711",
+    "Value": "HX711",
+    "LCSC": "C6705483",
+    "Description": "IC_ADC_SOP-16_24Bit_I2C"
+}

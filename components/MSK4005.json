@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.SchLib",
+    "Footprint Ref": "SOD-523",
+    "Footprint Path": "SOD-523.PcbLib",
+    "Name": "MSK4005",
+    "Value": "MSK4005",
+    "Description": "DIODE_SCHOTTKY_40V_0.5A__410mV_200nA_SOD-523"
+}

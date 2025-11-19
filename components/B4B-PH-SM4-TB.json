@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FP-B4B-PH-SM4-TB-MFG",
+    "Footprint Path": "FP-B4B-PH-SM4-TB-MFG.PcbLib",
+    "Library Ref": "CONN_4P",
+    "Library Path": "CONN_4P.Schlib",
+
+    "Name": "B4B-PH-SM4-TB",
+    "Value": "B4B-PH-SM4-TB",
+    "Description": "CONN_4P_2mm_JST_TOPENTRY"
+}

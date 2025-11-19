@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "DO-214AA-onsemi",
+    "Footprint Path": "DO-214AA-onsemi.PcbLib",
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.Schlib",
+
+    "Name": "MBRS130LT3G",
+    "Value": "MBRS130LT3G",
+    "Description": "DIODE_SHOTTKY_30V_2A_0.445V"
+}

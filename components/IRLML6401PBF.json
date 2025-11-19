@@ -1,0 +1,9 @@
+{
+    "Library Ref": "PMOS_S",
+    "Library Path": "PMOS_S.SchLib",
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Name": "IRLML6401PBF",
+    "Value": "IRLML6401PBF",
+    "Description": "PMOS_12V_3.4A_0.05R_SOT-23"
+}

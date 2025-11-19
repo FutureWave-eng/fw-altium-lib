@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "S2B-PH-SM4-TB",
+    "Footprint Path": "S2B-PH-SM4-TB.PcbLib",
+
+    "Name": "S2BPHSM4TBLFSN",
+    "Value": "S2BPHSM4TBLFSN",
+    "Description": "CONN_2P_HORIZONTAL_JST"
+}

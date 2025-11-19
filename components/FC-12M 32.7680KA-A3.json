@@ -1,0 +1,9 @@
+{
+    "Library Ref": "XTAL_2P",
+    "Library Path": "XTAL_2P.SchLib",
+    "Footprint Ref": "XTAL_2010",
+    "Footprint Path": "XTAL_2010.PcbLib",
+    "Name": "FC-12M 32.7680KA-A3",
+    "Value": "FC-12M 32.7680KA-A3",
+    "Description": "XTAL_2010_32K768Hz_20ppm_12.5pF"
+}

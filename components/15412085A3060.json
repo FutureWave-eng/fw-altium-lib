@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LED",
+    "Library Path": "LED.SchLib",
+    "Footprint Ref": "LED_1206_ReverseMount",
+    "Footprint Path": "LED_1206_ReverseMount.PcbLib",
+    "Name": "15412085A3060",
+    "Value": "15412085A3060",
+    "Description": "LED_1206_IR_ReverseMount_1.4V"
+}

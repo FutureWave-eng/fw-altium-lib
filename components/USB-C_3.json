@@ -1,0 +1,11 @@
+{
+    "Library Ref": "USB-C-3",
+    "Library Path": "USB-C-3.Schlib",
+    "Footprint Ref": "USB_type-c_LCSC",
+    "Footprint Path": "USB_type-c_LCSC.PcbLib",
+
+    "Name": "TYPE-C 16PIN 2MD(073)",
+    "Value": "TYPE-C 16PIN 2MD(073)",
+    "LCSC": "C2765186",
+    "Description": "CONN_USB-C_16PIN_3.0"
+}

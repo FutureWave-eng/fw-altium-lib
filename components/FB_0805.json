@@ -1,0 +1,9 @@
+{
+    "Library Ref": "FB",
+    "Library Path": "FB.SchLib",
+    "Footprint Ref": "FB_0805",
+    "Footprint Path": "FB_0805.PcbLib",
+    "Name": "FB_0805",
+    "Value": "?",
+    "Description": "FB_0805_120R_100MHz"
+}

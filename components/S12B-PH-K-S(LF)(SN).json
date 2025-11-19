@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_12P",
+    "Library Path": "CONN_12P.SchLib",
+    "Footprint Ref": "FP-S12B-PH-K-S_LF_SN-MFG",
+    "Footprint Path": "FP-S12B-PH-K-S_LF_SN-MFG.PcbLib",
+
+    "Name": "S12B-PH-K-S(LF)(SN)",
+    "Value": "S12B-PH-K-S(LF)(SN)",
+    "Description": "CONN_12P_HORIZONTAL_THT_PH-JST"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "IND_0603",
+    "Footprint Path": "IND_0603.PcbLib",
+    "Library Ref": "IND",
+    "Library Path": "IND.Schlib",
+
+    "Name": "LQM18PN3R3MFRL",
+    "Value": "3.3uH",
+    "Description": "IND_0603_3.3uH_20%_0.437R"
+}

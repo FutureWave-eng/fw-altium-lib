@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LDO_FIXED",
+    "Library Path": "LDO_FIXED.SchLib",
+    "Footprint Ref": "SOT-223-3_DiodesInc",
+    "Footprint Path": "SOT-223-3_DiodesInc.PcbLib",
+    "Name": "NCP1117LPST33T3G",
+    "Value": "NCP1117LPST33T3G",
+    "Description": "IC_LDO_3V3_1A"
+}

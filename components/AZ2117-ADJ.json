@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LDO_3terminal",
+    "Library Path": "LDO_3terminal.SchLib",
+    "Footprint Ref": "SOT-223-3_DiodesInc",
+    "Footprint Path": "SOT-223-3_DiodesInc.PcbLib",
+    "Name": "AZ2117-ADJ",
+    "Value": "AZ2117-ADJ",
+    "Description": "IC_LDO_ADJ_15V_1.35A_SOT223"
+}

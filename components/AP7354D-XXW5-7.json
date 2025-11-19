@@ -1,0 +1,9 @@
+{
+    "Library Ref": "AP7354D-XXW5-7",
+    "Library Path": "AP7354D-XXW5-7.SchLib",
+    "Footprint Ref": "TSOT25_DiodesInc",
+    "Footprint Path": "TSOT25_DiodesInc.PcbLib",
+    "Name": "AP7354D-XXW5-7",
+    "Value": "?",
+    "Description": "IC_LDO_XXV_6V_150mA"
+}

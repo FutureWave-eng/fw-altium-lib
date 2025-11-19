@@ -1,0 +1,9 @@
+{
+    "Library Ref": "DCDC_MODULE",
+    "Library Path": "DCDC_MODULE.SchLib",
+    "Footprint Ref": "R-78B5.0-2.0",
+    "Footprint Path": "R-78B5.0-2.0.PcbLib",
+    "Name": "R-78B5.0-2.0",
+    "Value": "R-78B5.0-2.0",
+    "Description": "IC_DCDC_BUCK_MODULE_6.5V~32V_5V"
+}

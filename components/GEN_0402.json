@@ -1,0 +1,9 @@
+{
+    "Library Ref": "GEN",
+    "Library Path": "GEN.SchLib",
+    "Footprint Ref": "RES_0402",
+    "Footprint Path": "RES_0402.PcbLib",
+    "Name": "GEN_0402",
+    "Value": "?",
+    "Description": "GEN_0402_SMD_RLC"
+}

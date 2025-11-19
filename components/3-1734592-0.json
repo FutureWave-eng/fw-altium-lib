@@ -1,0 +1,11 @@
+{
+    "Library Ref": "CONN_30P",
+    "Library Path": "CONN_30P.SchLib",
+    "Footprint Ref": "FPC_30P_0.5mm",
+    "Footprint Path": "FPC_30P_0.5mm.PcbLib",
+
+    "Name": "3-1734592-0",
+    "Value": "3-1734592-0",
+    "LCSC": "C262294",
+    "Description": "CONN_FPC_30P_0.5mm_SIDEENTRY"
+}

@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "FP-S3B-PH-K-S_LF_SN-MFG",
+    "Footprint Path": "FP-S3B-PH-K-S_LF_SN-MFG.PcbLib",
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.Schlib",
+
+    "Name": "S3B-PH-K-S(LF)(SN)",
+    "Value": "S3B-PH-K-S(LF)(SN)",
+    "Description": "CONN_3P_2mm_THT_RigthAngle_JST-PH"
+}

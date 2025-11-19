@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.SchLib",
+    "Footprint Ref": "S3B-PH-SM4-TB",
+    "Footprint Path": "S3B-PH-SM4-TB.PcbLib",
+
+    "Name": "S3B-PH-SM4-TB",
+    "Value": "S3B-PH-SM4-TB",
+    "Description": "CONN_3P_HORIZONTAL_JST"
+}

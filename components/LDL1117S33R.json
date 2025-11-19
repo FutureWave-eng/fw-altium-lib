@@ -1,0 +1,9 @@
+{
+    "Library Ref": "LDO_FIXED",
+    "Library Path": "LDO_FIXED.SchLib",
+    "Footprint Ref": "SOT-223-3_DiodesInc",
+    "Footprint Path": "SOT-223-3_DiodesInc.PcbLib",
+    "Name": "LDL1117S33R",
+    "Value": "LDL1117S33R",
+    "Description": "IC_LDO_3V3_18V_1,2A_350mV"
+}

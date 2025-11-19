@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SOT23_6p_onsemi",
+    "Footprint Path": "SOT23_6p_onsemi.PcbLib",
+    "Library Ref": "TP6841S6-A",
+    "Library Path": "TP6841S6-A.Schlib",
+
+    "Name": "TP6841S6-A",
+    "Value": "TP6841S6-A",
+    "LCSC": "C2844924",
+    "Description": "IC_DCDC_BUCK_40V_800mA"
+}

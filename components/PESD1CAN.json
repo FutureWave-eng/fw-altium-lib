@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "Nexperia-SOT23-3",
+    "Footprint Path": "Nexperia-SOT23-3.PcbLib",
+    "Library Ref": "TVS_DIODE_2CHAN",
+    "Library Path": "TVS_DIODE_2CHAN.Schlib",
+
+    "Name": "PESD1CAN",
+    "Value": "PESD1CAN",
+    "Description": "DIODE_TVS_2CHAN_70V_3A_SOT23-3"
+}

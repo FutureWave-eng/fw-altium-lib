@@ -1,0 +1,12 @@
+{
+    "Library Ref": "AMS1117-3.3",
+    "Library Path": "AMS1117-3.3.SchLib",
+    "Footprint Ref": "SOT-223-3_DiodesInc",
+    "Footprint Path": "SOT-223-3_DiodesInc.PcbLib",
+
+    "Name": "AMS1117-3.3",
+    "Value": "AMS1117-3.3",
+    "LCSC": "C347222",
+    "Description": "IC_LDO_3V3_6V_1A"
+
+}

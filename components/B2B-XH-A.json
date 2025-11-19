@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_2P",
+    "Library Path": "CONN_2P.SchLib",
+    "Footprint Ref": "B2B_XH_A",
+    "Footprint Path": "B2B_XH_A.PcbLib",
+    "Name": "B2B-XH-A",
+    "Value": "B2B-XH-A",
+    "Description": "CONN_2P_1x2_2.5mmCONN)jst-XH"
+}

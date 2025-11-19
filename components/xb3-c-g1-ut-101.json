@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "digi_xbee",
+    "Footprint Path": "digi_xbee.PcbLib",
+    "Library Ref": "xb3-c-g1-ut-101",
+    "Library Path": "xb3-c-g1-ut-101.Schlib",
+
+    "Name": "xb3-c-g1-ut-101",
+    "Value": "xb3-c-g1-ut-101",
+    "Description": "SOM_DigiXbee_GlobalLTE_2G3G_GNSS"
+}

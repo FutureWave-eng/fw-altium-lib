@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "SOT32-3_onsemi",
+    "Footprint Path": "SOT32-3_onsemi.PcbLib",
+    "Library Ref": "NPN",
+    "Library Path": "NPN.Schlib",
+
+    "Name": "MMBT4401LT1G",
+    "Value": "MMBT4401LT1G",
+    "LCSC": "C31776",
+    "Description": "BJT_NPN_SOT32-3_40V_600mA"
+}

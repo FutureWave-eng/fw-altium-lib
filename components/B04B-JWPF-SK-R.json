@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_4P",
+    "Library Path": "CONN_4P.SchLib",
+    "Footprint Ref": "B04B-JWPF-SK-R",
+    "Footprint Path": "B04B-JWPF-SK-R.PcbLib",
+    "Name": "B04B-JWPF-SK-R",
+    "Value": "B04B-JWPF-SK-R",
+    "Description": "CONN_4P_2mm_JST_TOPENTRY"
+}

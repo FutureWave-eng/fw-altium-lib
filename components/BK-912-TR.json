@@ -1,0 +1,10 @@
+{
+    "Library Ref": "BAT",
+    "Library Path": "BAT.SchLib",
+    "Footprint Ref": "BK-912-TR",
+    "Footprint Path": "BK-912-TR.PcbLib",
+    "Name": "BK-912-TR",
+    "Value": "BK-912-TR",
+    "LCSC": "C964831",
+    "Description": "BATT_CR2032_retainer_low-profile"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MCP3204-BI-SL",
+    "Library Path": "MCP3204-BI-SL.SchLib",
+    "Footprint Ref": "SOIC-14",
+    "Footprint Path": "SOIC-14.PcbLib",
+    "Name": "MCP3204-BI-SL",
+    "Value": "MCP3204-BI-SL",
+    "Description": "IC_ADC_SPI_12-bit"
+}

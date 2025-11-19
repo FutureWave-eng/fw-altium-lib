@@ -1,0 +1,10 @@
+{
+    "Library Ref": "MICRO_SD_8P",
+    "Library Path": "MICRO_SD_8P.SchLib",
+    "Footprint Ref": "MEM2067-02-180-00-A",
+    "Footprint Path": "MEM2067-02-180-00-A.PcbLib",
+    "Name": "MEM2067-02-180-00-A",
+    "Value": "MEM2067-02-180-00-A",
+    "LCSC": "C266609",
+    "Description": "CONN_Micro-SD_lock"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TC2050",
+    "Library Path": "TC2050.SchLib",
+    "Footprint Ref": "TC2050",
+    "Footprint Path": "TC2050.PcbLib",
+    "Name": "TC2050",
+    "Value": "TC2050",
+    "Description": "CONN_10P_JTAG_TagConnect"
+}

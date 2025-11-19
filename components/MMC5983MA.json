@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MMC5983MA",
+    "Library Path": "MMC5983MA.SchLib",
+    "Footprint Ref": "16-LGA_3x3",
+    "Footprint Path": "16-LGA_3x3.PcbLib",
+    "Name": "MMC5983MA",
+    "Value": "MMC5983MA",
+    "Description": "SENS_MAGNETOMETER_MMC5983MA"
+}

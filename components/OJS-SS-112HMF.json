@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "OJS-SS-112HMF",
+    "Footprint Path": "OJS-SS-112HMF.PcbLib",
+    "Library Ref": "RELAY_SPST",
+    "Library Path": "RELAY_SPST.Schlib",
+
+    "Name": "OJS-SS-112HMF",
+    "Value": "OJS-SS-112HMF",
+    "Description": "RELAY_SPST-NO_12VDCCoil_Through Hole"
+}

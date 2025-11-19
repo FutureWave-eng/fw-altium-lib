@@ -1,0 +1,9 @@
+{
+    "Library Ref": "74LVC04ABQ",
+    "Library Path": "74LVC04ABQ.SchLib",
+    "Footprint Ref": "14-DHVQFN_TI",
+    "Footprint Path": "14-DHVQFN_TI.PcbLib",
+    "Name": "74LVC04ABQ",
+    "Value": "74LVC04ABQ",
+    "Description": "IC_INV_6CHAN_TI_QFN"
+}

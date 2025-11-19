@@ -1,0 +1,10 @@
+{
+    "Library Ref": "CONN_3P",
+    "Library Path": "CONN_3P.SchLib",
+    "Footprint Ref": "JST-B3B-PH-SM4-TB(LF)(SN)",
+    "Footprint Path": "JST-B3B-PH-SM4-TB(LF)(SN).PcbLib",
+
+    "Name": "B3B-PH-SM4-TB(LF)(SN)",
+    "Value": "B3B-PH-SM4-TB(LF)(SN)",
+    "Description": "CONN_3P_2mm_JST_TOPENTRY"
+}

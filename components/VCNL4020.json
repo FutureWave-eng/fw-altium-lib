@@ -1,0 +1,9 @@
+{
+    "Library Ref": "VCNL4020",
+    "Library Path": "VCNL4020.SchLib",
+    "Footprint Ref": "VCNL4020",
+    "Footprint Path": "VCNL4020.PcbLib",
+    "Name": "VCNL4020",
+    "Value": "VCNL4020",
+    "Description": "IC_SENS_PROX_AMBLIGHT_200mm_SMD"
+}

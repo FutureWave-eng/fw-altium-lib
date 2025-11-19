@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "RGB_0606",
+    "Footprint Path": "RGB_0606.PcbLib",
+    "Library Ref": "DIODE_RGB_CA",
+    "Library Path": "DIODE_RGB_CA.Schlib",
+
+    "Name": "LTST-C19HE1WT",
+    "Value": "LTST-C19HE1WT",
+    "Description": "DIODE_RGB_COMMONANODE"
+}

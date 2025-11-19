@@ -1,0 +1,11 @@
+{
+    "Footprint Ref": "ESP32-S3-WROOM-1",
+    "Footprint Path": "ESP32-S3-WROOM-1.PcbLib",
+    "Library Ref": "ESP32-S3-WROOM-1",
+    "Library Path": "ESP32-S3-WROOM-1.Schlib",
+
+    "Name": "ESP32-S3-WROOM-1",
+    "Value": "ESP32-S3-WROOM-1",
+    "LCSC": "C2913203",
+    "Description": "SOM_ESP32-S3-WROOM-1_PCBAntenna_18x25.5mm_WiFi_BLE_"
+}

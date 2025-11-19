@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "IDC_10PINS_SideEntry_THT",
+    "Footprint Path": "IDC_10PINS_SideEntry_THT.PcbLib",
+    "Library Ref": "CONN_10P_2R",
+    "Library Path": "CONN_10P_2R.Schlib",
+
+    "Name": "3020-10-0200-00",
+    "Value": "3020-10-0200-00",
+    "Description": "CONN_10P_2R_2.54MM_SideEntry_THT_IDC"
+}

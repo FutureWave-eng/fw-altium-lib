@@ -1,0 +1,9 @@
+{
+    "Library Ref": "MT36291",
+    "Library Path": "MT36291.SchLib",
+    "Footprint Ref": "DIODES SOT-23-6 W6",
+    "Footprint Path": "DIODES SOT-23-6 W6.PcbLib",
+
+    "Name": "MT36291",
+    "Value": "MT36291"
+}

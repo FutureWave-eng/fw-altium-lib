@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.SchLib",
+    "Footprint Ref": "SOT95P237X112-3N",
+    "Footprint Path": "SOT95P237X112-3N.PcbLib",
+    "Name": "BAR18FILM",
+    "Value": "BAR18FILM",
+    "Description": "DIODE_SCHOTTKY_70V_70mA_low_V_drop_410mV_low_reverse_leakage_200nA"
+}

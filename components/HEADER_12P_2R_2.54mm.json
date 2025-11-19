@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "pinheader_P12R2",
+    "Footprint Path": "pinheader_P12R2.PcbLib",
+    "Library Ref": "CONN_12P_2R",
+    "Library Path": "CONN_12P_2R.Schlib",
+
+    "Name": "HEADER_12P_2R_2.54mm",
+    "Value": "HEADER_12P_2R_2.54mm",
+    "Description": "CONN_PINHEADER_2.54mm_12P_2R"
+}

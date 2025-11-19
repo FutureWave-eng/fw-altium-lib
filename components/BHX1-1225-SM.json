@@ -1,0 +1,9 @@
+{
+    "Library Ref": "BAT",
+    "Library Path": "BAT.SchLib",
+    "Footprint Ref": "BHX1-1225-SM",
+    "Footprint Path": "BHX1-1225-SM.PcbLib",
+    "Name": "BHX1-1225-SM",
+    "Value": "BHX1-1225-SM",
+    "Description": "BATT_CR1225_retainer_vibration_resistant_low-profile"
+}
