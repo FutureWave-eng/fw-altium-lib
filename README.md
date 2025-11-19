@@ -227,5 +227,5 @@ Happy building! If anything's unclear or you hit friction, open an issue with th
 ## License
 
 All design sources and helper scripts in FW-Altium-Lib are licensed under the CERN Open Hardware Licence Version 2 – Permissive (CERN-OHL-P v2.0).  
-© 2023–2025 FutureWave SRL. See [LICENSE](./LICENSE) for the full text and obligations around attribution and documenting modifications.
+© 2023–2025 FutureWave SRL. See [LICENSE](./LICENSE) for the full text and obligations around attribution and documenting modifications. 
 
