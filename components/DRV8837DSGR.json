@@ -1,0 +1,9 @@
+{
+    "Library Ref": "DRV8837DSGR",
+    "Library Path": "DRV8837DSGR.SchLib",
+    "Footprint Ref": "TI_WSON_8_EP",
+    "Footprint Path": "TI_WSON_8_EP.PcbLib",
+    "Name": "DRV8837DSGR",
+    "Value": "DRV8837DSGR",
+    "Description": "IC_H-bridge_1.9A_280mOhm_WSON-8-EP"
+}

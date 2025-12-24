@@ -1,0 +1,9 @@
+{
+    "Library Ref": "IND",
+    "Library Path": "IND.SchLib",
+    "Footprint Ref": "SMMS0420",
+    "Footprint Path": "SMMS0420.PcbLib",
+    "Name": "SMMS0420",
+    "Value": "?",
+    "Description": "IND_power_4.6x4.2x2_?uH"
+}

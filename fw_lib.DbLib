@@ -1,7 +1,7 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\WouterVanRompaey\OneDrive - FUTUREWAVE SRL\Documents\Futurewave\futurelab\futurelab-ai-pin-mic-hw\fw-altium-lib\fw_lib_generated.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\WouterVanRompaey\OneDrive - FUTUREWAVE SRL\Documents\Futurewave\Chaumet\chaumet-hw-mobile-bee\fw-altium-lib\fw_lib_generated.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
 AddMode=2
 RemoveMode=1
 UpdateMode=1

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "STM32U083KCU6",
+    "Library Path": "STM32U083KCU6.SchLib",
+    "Footprint Ref": "STM32U083KCU6",
+    "Footprint Path": "STM32U083KCU6.PcbLib",
+    "Name": "STM32U083KCU6",
+    "Value": "STM32U083KCU6",
+    "Description": "IC_MCU_32-UFQFPN_32BIT_256KB_8KB_56MHz"
+}
