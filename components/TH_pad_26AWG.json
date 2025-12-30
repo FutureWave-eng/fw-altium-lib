@@ -1,0 +1,10 @@
+{
+    "Footprint Ref": "VIA_26AWG",
+    "Footprint Path": "VIA_26AWG.PcbLib",
+    "Library Ref": "TH_pad",
+    "Library Path": "TH_pad.Schlib",
+
+    "Name": "TH_pad_26awg",
+    "Value": "TH_pad_26awg",
+    "Description": "PAD_TH_26awg_0.6mm_1.1mm"
+}
