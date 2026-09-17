@@ -1,0 +1,10 @@
+{
+    "Library Ref": "USB-C",
+    "Library Path": "USB-C.SchLib",
+    "Footprint Ref": "HX_TYPE-C_16PIN",
+    "Footprint Path": "HX_TYPE-C_16PIN.PcbLib",
+    "Name": "HX_TYPE-C_16PIN",
+    "Value": "HX_TYPE-C_16PIN",
+    "LCSC": "C5178539",
+    "Description": "CONN_USB-C_FEMALE_PCB_EDGE_HORIZONTAL_16pin_3A"
+}

@@ -1,0 +1,9 @@
+{
+    "Library Ref": "TP",
+    "Library Path": "TP.SchLib",
+    "Footprint Ref": "TP_2mm",
+    "Footprint Path": "TP_2mm.PcbLib",
+    "Name": "YTC1P-3010-01R",
+    "Value": "YTC1P-3010-01R",
+    "Description": "TP_POGO_1A_12V_3.2mm_4mm"
+}

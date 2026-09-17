@@ -1,0 +1,9 @@
+{
+    "Library Ref": "CONN_4P",
+    "Library Path": "CONN_4P.SchLib",
+    "Footprint Ref": "POGO_4PIN",
+    "Footprint Path": "POGO_4PIN.PcbLib",
+    "Name": "POGO_4PIN",
+    "Value": "POGO_4PIN",
+    "Description": "CONN_4P_1R_2.54mm_magnet"
+}

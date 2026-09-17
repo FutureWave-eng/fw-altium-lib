@@ -1,0 +1,10 @@
+{
+    "Library Ref": "LED",
+    "Library Path": "LED.SchLib",
+    "Footprint Ref": "TJ-S1706SW6TGLC6B-A5",
+    "Footprint Path": "TJ-S1706SW6TGLC6B-A5.PcbLib",
+    "Name": "TJ-S1706SW6TGLC6B-A5",
+    "Value": "TJ-S1706SW6TGLC6B-A5",
+    "LCSC": "C42436699",
+    "Description": "LED_0603_BLUE_SIDEVIEW_3.4V"
+}
