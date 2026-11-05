@@ -1,0 +1,9 @@
+{
+    "Library Ref": "Schottky",
+    "Library Path": "Schottky.SchLib",
+    "Footprint Ref": "Schottky_SOD323",
+    "Footprint Path": "Schottky_SOD323.PcbLib",
+    "Name": "PMEG2005AEA,115",
+    "Value": "PMEG2005AEA,115",
+    "Description": "DIODE_SCHOTTKY_20V_0.5A_SOD323"
+}
